@@ -21,25 +21,27 @@ I’m currently an assistant professor in the School of Computer Science and Eng
 
 My research interests include Data Mining, Deep Graph Learning and Trustworthy AI. Please feel free to send me an email if interested to discuss or work together. 
 
+**[Prospective students]** Our group has positions for Ph.D. students, Master students, and visiting students. If you are interested, please send me an email with your CV and publications (if any). 
+
 # 🔥 News
 - *2025.01*: &nbsp;🎉 **Two** papers are accepted by **ICLR 2025**  
 - *2025.01*: &nbsp;🎉 **One** paper is accepted by **WWW 2025** 
+- *2024.12*: &nbsp;🎉 **Five** papers are accepted by **AAAI 2025** 
 - *2024.10*: &nbsp;🎉 **One** paper is accepted by **WSDM 2025**
 - *2024.09*: &nbsp;🎉 **One** paper is accepted by **NeurIPS 2024**
 - *2024.08*: &nbsp;🏆 Our paper has been awarded **CCF Bigdata 2024 Best Paper Award** 
-- *2024.08*: &nbsp;🎉 One paper is accepted by Science China Information Science.
-- *2024.07*: &nbsp;🎉 One paper is accepted by MM 2024
-- *2024.07*: &nbsp;🎉 One paper is accepted by CIKM 2024
-- *2024.06*: &nbsp;🎉 One paper is accepted by IJCAI 2024 GAAMAL
-- *2024.05*: &nbsp;🏆 I was grateful to be awared "Most Popular Speaker of the Year" at the Techbeat.net
-- *2024.05*: &nbsp;🎉 One paper is accepted by ICML 2024
-- *2024.05*: &nbsp;🌟 We host a challenge Characterizing User Behavior in Social Networks: Propagation, Prediction, and Sensemaking in IEEE BigData Cup 2024
-- *2024.03*: &nbsp;🎉 Two papers are accepted by Journal of Computer Research and Development
-- *2024.02*: &nbsp;🎉 One paper is accepted by COLING 2024
-- *2024.01*: &nbsp;🎉 One paper is accepted by WWW 2024
+- *2024.08*: &nbsp;🎉 **One** paper is accepted by **Science China Information Science**
+- *2024.07*: &nbsp;🎉 **One** paper is accepted by **MM 2024**
+- *2024.07*: &nbsp;🎉 **One** paper is accepted by **CIKM 2024**
+- *2024.06*: &nbsp;🎉 **One** paper is accepted by **IJCAI 2024 GAAMAL**
+- *2024.05*: &nbsp;🏆 I was grateful to be awared **"Most Popular Speaker of the Year"** at the Techbeat.net
+- *2024.05*: &nbsp;🎉 **One** paper is accepted by **ICML 2024**
+- *2024.05*: &nbsp;🌟 We host a challenge **Characterizing User Behavior in Social Networks: Propagation, Prediction, and Sensemaking** in **IEEE BigData Cup 2024**
+- *2024.02*: &nbsp;🎉 **One** paper is accepted by **COLING 2024**
+- *2024.01*: &nbsp;🎉 **One** paper is accepted by **WWW 2024**
 
 # 📝 Publications 
-"\*" denotes equal contribution and "\#" denotes corresponding author
+\* denotes equal contribution and \# denotes corresponding author
 - `ICLR 2025` [IGL-Bench: Establishing the Comprehensive Benchmark for Imbalanced Graph Learning](https://arxiv.org/pdf/2406.09870). Jiawen Qin\*, Haonan Yuan\*, **Qingyun Sun**\*, Lyujin Xu, Jiaqi Yuan, Pengfeng Huang, Zhaonan Wang, Xingcheng Fu, Hao Peng, Jianxin Li, Philip S. Yu  
 - `ICLR 2025` [ST-GCond: Self-supervised and Transferable Graph Dataset Condensation](https://openreview.net/pdf?id=wYWJFLQov9), Beining Yang, **Qingyun Sun#**, Cheng Ji, Xingcheng Fu, Jianxin Li
 - `AAAI 2025` [GraphMoRE: Mitigating Topological Heterogeneity via Mixture of Riemannian Experts](https://arxiv.org/pdf/2412.11085). Zihao Guo, **Qingyun Sun#**, Haonan Yuan, Xingcheng Fu, Min Zhou, Yisen Gao, Jianxin Li
@@ -117,13 +119,31 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 -->
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01*, AI TIME, AAAI 2025 Pre-talk ACT-BD session. [\[video\]](https://www.bilibili.com/video/BV1bhr6YuEjL)
+- *2024.12*, LOG 2024 Kunshan Meetup, Towards Low-Distortion Graph Representation Learning. 
+- *2024.12*, CCF Intelligence Transportation Systems Conference 2024, Research and Application of Graph Structure Learning and Long-Sequence Prediction. 
+- *2024.08*, CCF Bigdata 2024, Graph Learning and Sequence Prediction Methods for Network Behavior Big Data.
+- *2024.01*, Datafun, Graph Learning in Dynamic Recommendation Scenarios. [\[video\]](https://www.bilibili.com/video/BV1Ae411e74x)
+- *2023.12*, Bytedance, Intelligent Computing for Complex Graphs. 
+- *2023.11*, The First Academic Forum on Frontiers in Social Group Intelligence, Graph Learning for Nework Behavior Big Data. 
+- *2023.07*, 2023 the 4th International Conference on Big Data and Artificial Intelligence (BDAI), Intelligent Computing for Complex Graphs.
+- *2023.06*, LOGS, Topology Inbalance in Graph Learning. [\[video\]](https://www.bilibili.com/video/BV1Ao4y1E7Pv/)
+- *2023.05*, Techbeat, Topological Imbalance in Graph Learning. [\[video\]](https://www.bilibili.com/video/BV1hM4y1q7Bj)
+<!--
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+-->
 <!--
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 -->
 
 # 💻 Students
-- Z. Guo.
+- Z. Guo (2024, master)
+- Z. Shen (2024, master)
+- Z. Wang (2024, master)
+- W. Xie (2024, master)
+- H. Yuan (2022, Ph.D.)
+- F. Lu (2022,  Ph.D.)
+- B. Yang (2021, master → Ph.D. at University of Edinburgh)
+- Z. Chen (?, Intern → Ph.D. at University of Edinburgh)
+- Y. Gao (?, Intern → master at HKUST)
