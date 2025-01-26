@@ -24,21 +24,21 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 **[Prospective students]** Our group has positions for Ph.D. students, Master students, and visiting students. If you are interested, please send me an email with your CV and publications (if any). 
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉 **Two** papers are accepted by **ICLR 2025**  
-- *2025.01*: &nbsp;🎉 **One** paper is accepted by **WWW 2025** 
-- *2024.12*: &nbsp;🎉 **Five** papers are accepted by **AAAI 2025** 
-- *2024.10*: &nbsp;🎉 **One** paper is accepted by **WSDM 2025**
-- *2024.09*: &nbsp;🎉 **One** paper is accepted by **NeurIPS 2024**
-- *2024.08*: &nbsp;🏆 Our paper has been awarded **CCF Bigdata 2024 Best Paper Award** 
-- *2024.08*: &nbsp;🎉 **One** paper is accepted by **Science China Information Science**
-- *2024.07*: &nbsp;🎉 **One** paper is accepted by **MM 2024**
-- *2024.07*: &nbsp;🎉 **One** paper is accepted by **CIKM 2024**
-- *2024.06*: &nbsp;🎉 **One** paper is accepted by **IJCAI 2024 GAAMAL**
-- *2024.05*: &nbsp;🏆 I was grateful to be awared **"Most Popular Speaker of the Year"** at the Techbeat.net
-- *2024.05*: &nbsp;🎉 **One** paper is accepted by **ICML 2024**
-- *2024.05*: &nbsp;🌟 We host a challenge **Characterizing User Behavior in Social Networks: Propagation, Prediction, and Sensemaking** in **IEEE BigData Cup 2024**
-- *2024.02*: &nbsp;🎉 **One** paper is accepted by **COLING 2024**
-- *2024.01*: &nbsp;🎉 **One** paper is accepted by **WWW 2024**
+- *2025.01* &nbsp;🎉 **Two** papers are accepted by **ICLR 2025**  
+- *2025.01* &nbsp;🎉 **One** paper is accepted by **WWW 2025** 
+- *2024.12* &nbsp;🎉 **Five** papers are accepted by **AAAI 2025** 
+- *2024.10* &nbsp;🎉 **One** paper is accepted by **WSDM 2025**
+- *2024.09* &nbsp;🎉 **One** paper is accepted by **NeurIPS 2024**
+- *2024.08* &nbsp;🏆 Our paper has been awarded **CCF Bigdata 2024 Best Paper Award** 
+- *2024.08* &nbsp;🎉 **One** paper is accepted by **Science China Information Science**
+- *2024.07* &nbsp;🎉 **One** paper is accepted by **MM 2024**
+- *2024.07* &nbsp;🎉 **One** paper is accepted by **CIKM 2024**
+- *2024.06* &nbsp;🎉 **One** paper is accepted by **IJCAI 2024 GAAMAL**
+- *2024.05* &nbsp;🏆 I was grateful to be awared **"Most Popular Speaker of the Year"** at the Techbeat.net
+- *2024.05* &nbsp;🎉 **One** paper is accepted by **ICML 2024**
+- *2024.05* &nbsp;🌟 We host a challenge **Characterizing User Behavior in Social Networks: Propagation, Prediction, and Sensemaking** in **IEEE BigData Cup 2024**
+- *2024.02* &nbsp;🎉 **One** paper is accepted by **COLING 2024**
+- *2024.01* &nbsp;🎉 **One** paper is accepted by **WWW 2024**
 
 # 📝 Publications 
 \* denotes equal contribution and \# denotes corresponding author
@@ -99,17 +99,17 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 -->
 
 # 🏆 Honors and Awards
-- *2024.08* CCF Bigdata 2024 Best Paper Award
-- *2024.04* Most Popular Speaker of the Year" at the Techbeat.net
-- *2023.12* Excellence Award in Pretrained Model-based Community Detection and Fraudulent Group Mining Competition @ICDM 2023
-- *2023.09* 2023 ACM China Beijing Doctoral Dissertation Award
-- *2022.10* CIKM 2022 Best Paper Honorable Mention Award
-- *2022.07* Huawei Scholarship
-- *2022.10* IEEE IWQoS 2022 Best Paper Award
-- *2022.06* The First Prize of 2022 CCF Academic Show (Ph.D. Group)
-- *2021.10* ICDM 2021 Best Paper Candidate
-- *2021.07* The First Prize at the 7th China "Internet+" Innovation and Entrepreneurship Competition (Beijing)
-- *2021.03* Student Scholarship Award of The Web Conference 2021
+- *2024.08* &nbsp;CCF Bigdata 2024 Best Paper Award
+- *2024.04* &nbsp;Most Popular Speaker of the Year" at the Techbeat.net
+- *2023.12* &nbsp;Excellence Award in Pretrained Model-based Community Detection and Fraudulent Group Mining Competition @ICDM 2023
+- *2023.09* &nbsp;2023 ACM China Beijing Doctoral Dissertation Award
+- *2022.10* &nbsp;CIKM 2022 Best Paper Honorable Mention Award
+- *2022.07* &nbsp;Huawei Scholarship
+- *2022.10* &nbsp;IEEE IWQoS 2022 Best Paper Award
+- *2022.06* &nbsp;The First Prize of 2022 CCF Academic Show (Ph.D. Group)
+- *2021.10* &nbsp;ICDM 2021 Best Paper Candidate
+- *2021.07* &nbsp;The First Prize at the 7th China "Internet+" Innovation and Entrepreneurship Competition (Beijing)
+- *2021.03* &nbsp;Student Scholarship Award of The Web Conference 2021
 
 
 <!--
@@ -119,20 +119,47 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 -->
 
 # 💬 Invited Talks
-- *2025.01*, AI TIME, AAAI 2025 Pre-talk ACT-BD session. [\[video\]](https://www.bilibili.com/video/BV1bhr6YuEjL)
-- *2024.12*, LOG 2024 Kunshan Meetup, Towards Low-Distortion Graph Representation Learning. 
-- *2024.12*, CCF Intelligence Transportation Systems Conference 2024, Research and Application of Graph Structure Learning and Long-Sequence Prediction. 
-- *2024.08*, CCF Bigdata 2024, Graph Learning and Sequence Prediction Methods for Network Behavior Big Data.
-- *2024.01*, Datafun, Graph Learning in Dynamic Recommendation Scenarios. [\[video\]](https://www.bilibili.com/video/BV1Ae411e74x)
-- *2023.12*, Bytedance, Intelligent Computing for Complex Graphs. 
-- *2023.11*, The First Academic Forum on Frontiers in Social Group Intelligence, Graph Learning for Nework Behavior Big Data. 
-- *2023.07*, 2023 the 4th International Conference on Big Data and Artificial Intelligence (BDAI), Intelligent Computing for Complex Graphs.
-- *2023.06*, LOGS, Topology Inbalance in Graph Learning. [\[video\]](https://www.bilibili.com/video/BV1Ao4y1E7Pv/)
-- *2023.05*, Techbeat, Topological Imbalance in Graph Learning. [\[video\]](https://www.bilibili.com/video/BV1hM4y1q7Bj)
+- *2025.01* &nbsp;AI TIME, AAAI 2025 Pre-talk ACT-BD session. [\[video\]](https://www.bilibili.com/video/BV1bhr6YuEjL)
+- *2024.12* &nbsp;LOG 2024 Kunshan Meetup, Towards Low-Distortion Graph Representation Learning. 
+- *2024.12* &nbsp;CCF Intelligence Transportation Systems Conference 2024, Research and Application of Graph Structure Learning and Long-Sequence Prediction. 
+- *2024.08* &nbsp;CCF Bigdata 2024, Graph Learning and Sequence Prediction Methods for Network Behavior Big Data.
+- *2024.01* &nbsp;Datafun, Graph Learning in Dynamic Recommendation Scenarios. [\[video\]](https://www.bilibili.com/video/BV1Ae411e74x)
+- *2023.12* &nbsp;Bytedance, Intelligent Computing for Complex Graphs. 
+- *2023.11* &nbsp;The First Academic Forum on Frontiers in Social Group Intelligence, Graph Learning for Nework Behavior Big Data. 
+- *2023.07* &nbsp;2023 the 4th International Conference on Big Data and Artificial Intelligence (BDAI), Intelligent Computing for Complex Graphs.
+- *2023.06* &nbsp;LOGS, Topology Inbalance in Graph Learning. [\[video\]](https://www.bilibili.com/video/BV1Ao4y1E7Pv/)
+- *2023.05* &nbsp;Techbeat, Topological Imbalance in Graph Learning. [\[video\]](https://www.bilibili.com/video/BV1hM4y1q7Bj)
 <!--
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
+# 💻 Service
+## Conference Reviewer:
+   - NeurIPS 2023/2024
+   - ICLR 2023/2024
+   - ICML 2024/2025
+   - AAAI 2022/2023/2024/2025
+   - IJCAI 2024/2025
+   - WWW 2021/2022/2024/2025
+   - KDD 2021/2022/2024/2025
+   - ICDM 2023
+   - DASFFA 2024
+   - ICASSP 2024/2025
+   - AISTATS 2025 
 
+## Journal Reviewer:
+
+   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+   - IEEE Transactions on Knowledge and Data Engineering (TKDE)
+    - ACM Transactions on Information Systems (TOIS)
+   - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+   - ACM Transactions on the Web (TWEB)
+   - IEEE Transactions on Multimedia (TMM)
+   - IEEE Transactions on Cybernetics (TCYB)
+   - Pattern Recognition (PR)
+   - Neural Networks (NN)
+   - International Journal of Machine Learning and Cybernetics (JMLC)
+   - Journal of Computer Science and Technology (JCST)
+   - Journal of Social Computing (JSC)
 
 # 💻 Students
 - Z. Guo (2024, master)
@@ -142,5 +169,5 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 - H. Yuan (2022, Ph.D.)
 - F. Lu (2022,  Ph.D.)
 - B. Yang (2021, master → Ph.D. at University of Edinburgh)
-- Z. Chen (?, Intern → Ph.D. at University of Edinburgh)
-- Y. Gao (?, Intern → master at HKUST)
+- Z. Chen (2020, Intern → Ph.D. at University of Edinburgh)
+- Y. Gao (2021, Intern → master at HKUST)
