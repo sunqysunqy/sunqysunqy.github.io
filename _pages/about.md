@@ -22,10 +22,11 @@ I’m currently an assistant professor in the School of Computer Science and Eng
 My research interests include Data Mining, Deep Graph Learning and Trustworthy AI. Please feel free to send me an email if interested to discuss or work together. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01*: &nbsp;🎉 **Two** papers are accepted by **ICLR 2025**  
+- *2025.01*: &nbsp;🎉 **One** paper is accepted by **WWW 2025** 
+- *2024.10*: &nbsp;🎉 **One** paper is accepted by **WSDM 2025**
+- *2024.09*: &nbsp;🎉 **One** paper is accepted by **NeurIPS 2024**
+- *2022.02*: &nbsp;🏆 Our paper has been awarded **CCF Bigdata 2024 Best Paper Award** 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -48,8 +49,18 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08* CCF Bigdata 2024 Best Paper Award
+- *2024.04* Most Popular Speaker of the Year" at the Techbeat.net
+- *2023.12* Excellence Award in Pretrained Model-based Community Detection and Fraudulent Group Mining Competition @ICDM 2023
+- *2023.09* 2023 ACM China Beijing Doctoral Dissertation Award
+- *2022.10* CIKM 2022 Best Paper Honorable Mention Award
+- *2022.07* Huawei Scholarship
+- *2022.10* IEEE IWQoS 2022 Best Paper Award
+- *2022.06* The First Prize of 2022 CCF Academic Show (Ph.D. Group)
+- *2021.10* ICDM 2021 Best Paper Candidate
+- *2021.07* The First Prize at the 7th China "Internet+" Innovation and Entrepreneurship Competition (Beijing)
+- *2021.03* Student Scholarship Award of The Web Conference 2021
+
 
 <!--
 # 📖 Educations
