@@ -30,8 +30,7 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 - *2024.08*: &nbsp;🎉 One paper is accepted by Science China Information Science.
 - *2024.07*: &nbsp;🎉 One paper is accepted by MM 2024
 - *2024.07*: &nbsp;🎉 One paper is accepted by CIKM 2024
-- *2024.06*: &nbsp;🎉 One paper is accepted by IJCAI 2024 GAAMAL.
-- *2024.05*: &nbsp;🎉 One paper is accepted by JMLC.
+- *2024.06*: &nbsp;🎉 One paper is accepted by IJCAI 2024 GAAMAL
 - *2024.05*: &nbsp;🏆 I was grateful to be awared "Most Popular Speaker of the Year" at the Techbeat.net
 - *2024.05*: &nbsp;🎉 One paper is accepted by ICML 2024
 - *2024.05*: &nbsp;🌟 We host a challenge Characterizing User Behavior in Social Networks: Propagation, Prediction, and Sensemaking in IEEE BigData Cup 2024
@@ -58,7 +57,25 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 - `SDM 2024` [MultiNetAD: Multiplex Network-Based Anomaly Access Detection Featuring Semantic Hierarchies](https://epubs.siam.org/doi/epdf/10.1137/1.9781611978032.76). Ziqi Yuan, Qingyun Sun, Haoyi Zhou, Zukun Zhu, Jianxin Li 
 - `COLING 2024` [Few-Shot Multimodal Named Entity Recognition based on Mutlimodal Causal Intervention Graph](https://aclanthology.org/2024.lrec-main.633.pdf). Feihong Lu, Xiaocui Yang, Qian Li, **Qingyun Sun\#**, Ke Jiang,Cheng Ji, Jianxin Li  
 - `CIKM 2024` [L-APPLE: Language-agnostic Prototype Prefix Learning for Cross-lingual Event Detection](https://dl.acm.org/doi/abs/10.1145/3627673.3679769). Ziqin Zhu, Xutan Peng, Qian Li, Cheng Ji, **Qingyun Sun**, Jianxin Li  
-- `IJCAI 2024 GAAMAL` [Beyond Human Preferences: Exploring Reinforcement Learning Trajectory Evaluation and Improvement through LLMs](https://arxiv.org/pdf/2406.19644). Zichao Shen, Tianchen Zhu, Qingyun Sun#, Shiqi Gao, Jianxin Li  
+- `IJCAI 2024 GAAMAL` [Beyond Human Preferences: Exploring Reinforcement Learning Trajectory Evaluation and Improvement through LLMs](https://arxiv.org/pdf/2406.19644). Zichao Shen, Tianchen Zhu, **Qingyun Sun\#**, Shiqi Gao, Jianxin Li  
+- `IEEE TPAMI 2023` [Adaptive Subgraph Neural Network with Reinforced Critical Structure Mining](https://ieeexplore.ieee.org/abstract/document/10013693/). Jianxin Li, **Qingyun Sun**, Hao Peng, Beining Yang, Jia Wu, Phillp S. Yu   
+- `NeurIPS 2023` [Environment-Aware Dynamic Graph Learning for Out-of-Distribution Generalization](https://openreview.net/pdf?id=n8JWIzYPRz). Haonan Yuan, **Qingyun Sun\#**, Xingcheng Fu, Ziwei Zhang, Cheng Ji, Hao Peng, Jianxin Li   
+- `NeurIPS 2023` [Does Graph Distillation See Like Vision Dataset Counterpart?](https://arxiv.org/pdf/2310.09192). Beining Yang, Kai Wang, **Qingyun Sun**, Cheng Ji, Xingcheng Fu, Hao Tang, Yang You, Jianxin Li
+- `WWW 2023` <span style="color:red">(Spotlight Paper)</span> [Hyperbolic Geometric Graph Representation Learning for Hierarchy-imbalance Node Classification](https://arxiv.org/pdf/2304.05059). Xingcheng Fu, Yuecen Wei, **Qingyun Sun**, Haonan Yuan, Jia Wu, Hao Peng, Jianxin Li
+- `IEEE TKDE 2023` [A Robust and Generalized Framework for Adversarial Graph Embedding](https://arxiv.org/abs/2105.10651). Jianxin Li, Xingcheng Fu, Hao Peng, Senzhang Wang, Shijie Zhu, **Qingyun Sun**, Philip S. Yu, Lifang He
+- `PR 2023` [Higher-Order Memory Guided Temporal Random Walk for Dynamic Heterogeneous Network Embedding](https://arxiv.org/pdf/2310.09192). Cheng Ji, Tao Zhao, **Qingyun Sun**, Xingcheng Fu, Jianxin Li
+- `WSDM 2023` [Unbiased and Efficient Self-Supervised Incremental Contrastive Learning](https://arxiv.org/pdf/2301.12104). Cheng Ji, Jianxin Li, Hao Peng, Jia Wu, Xingcheng Fu, **Qingyun Sun**, Philip S. Yu 
+- `KAIS 2023` [Adaptive Curvature Exploration Geometric Graph Neural Network](https://link.springer.com/article/10.1007/s10115-022-01811-4). Xingcheng Fu, Jianxin Li, Jia Wu, Jiawen Qin, **Qingyun Sun**, Cheng Ji, Senzhang Wang, Hao Peng, Philip S. Yu 
+- `AAAI 2022` [Graph Structure Learning with Variational Information Bottleneck](https://arxiv.org/pdf/2301.12104). **Qingyun Sun**, Jianxin Li, Hao Peng, Jia Wu, Xingcheng Fu, Cheng Ji, Philip S. Yu  
+- `CIKM 2022` <span style="color:red">(Best Paper Honorable Mention Award)</span> [Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-squashing](https://arxiv.org/pdf/2301.12104). **Qingyun Sun**, Jianxin Li, Haonan Yuan, Xingcheng Fu, Hao Peng, Cheng Ji, Qian Li, Philip S. Yu 
+- `CIKM 2022` [Automating DBSCAN via Deep Reinforcement Learning](https://arxiv.org/pdf/2208.04537). Ruitong Zhang, Hao Peng, Yingtong Dou, Jia Wu, Qingyun Sun, Yangyang Li, Jingyi Zhang, Philip S. Yu 
+- `WWW 2022` [Curvature Graph Generative Adversarial Networks](https://arxiv.org/pdf/2203.01604). Jianxin Li, Xingcheng Fu, **Qingyun Sun**, Cheng Ji, Jiajun Tan, Jia Wu, Hao Peng  
+- `IWQoS 2022` <span style="color:red">(Best Paper Award)</span> [AIQoSer: Building the efficient Inference-QoS for AI Services](https://arxiv.org/pdf/2208.04537). Jianxin Li, Tianchen Zhu, Haoyi Zhou, **Qingyun Sun**, Chunyang Jiang, Shuai Zhang, Chunming Hu 
+- `ICDM 2022` [Heterogeneous Graph Neural Network for Privacy-Preserving Recommendation](https://arxiv.org/pdf/2210.00538). Yuecen Wei, Xingcheng Fu, **Qingyun Sun**, Hao Peng, Jia Wu, Jinyan Wang, Xianxian Li 
+- `ACM TWEB 2022` [Type Information Utilized Event Detection via Multi-Channel GNNs in Electrical Power Systems](https://arxiv.org/pdf/2211.08168). Qian Li, Jianxin Li, Lihong Wang, Cheng Ji, Yiming Hei, Jiawei Sheng, **Qingyun Sun**, Shan Xue, Pengtao Xie 
+- `WWW 2021` <span style="color:red">(Most Influential WWW Papers)</span> [SUGAR: Subgraph Neural Network with Reinforcement Pooling and Self-Supervised Mutual Information Mechanism](https://dl.acm.org/doi/abs/10.1145/3442381.3449822). **Qingyun Sun**, Jianxin Li, Hao Peng, Jia Wu, Yuanxing Ning, Philip S. Yu, Lifang He 
+- `ICDM 2021` <span style="color:red">(Best Paper Candidate)</span> [ACE-HGNN: Adaptive Curvature Exploration Hyperbolic Graph Neural Network](https://arxiv.org/pdf/2211.08168). Xingcheng Fu, Jianxin Li, Jia Wu, **Qingyun Sun**, Cheng Ji, Senzhang Wang, Jiajun Tan, Hao Peng, Philip S. Yu 
+- `ICDM 2020` [Pairwise Learning for Name Disambiguation in Large-Scale Heterogeneous Academic Networks](https://arxiv.org/pdf/2008.13099). **Qingyun Sun**, Hao Peng, Jianxin Li, Senzhang Wang, Xiangyu Dong, Liangxuan Zhao, Philip S. Yu, Lifang He 
 
 
 <!--- `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
