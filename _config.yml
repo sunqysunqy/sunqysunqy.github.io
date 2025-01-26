@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qingyun Sun （孙庆赟）"
-description              : "Assistant Professor, Beihang University. "
+description              : 
 repository               : "sunqyqy/sunqysqy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qingyun Sun （孙庆赟）"
+  name             : "Qingyun Sun (孙庆赟)"
   avatar           : "images/sqy.jpg"
   bio              : "Assistant Professor, Beihang University"
   location         : "Beijing, China"
