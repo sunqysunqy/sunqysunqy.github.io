@@ -134,9 +134,9 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 -->
 
 # 💻 Service
-## Conference Reviewer:
+**Conference Reviewer:**
    - NeurIPS 2023/2024
-   - ICLR 2023/2024
+   - ICLR 2023/2024/2025
    - ICML 2024/2025
    - AAAI 2022/2023/2024/2025
    - IJCAI 2024/2025
@@ -146,10 +146,11 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
    - DASFFA 2024
    - ICASSP 2024/2025
    - AISTATS 2025 
-## Journal Reviewer:
+   
+**Journal Reviewer:**
    - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
    - IEEE Transactions on Knowledge and Data Engineering (TKDE)
-    - ACM Transactions on Information Systems (TOIS)
+   - ACM Transactions on Information Systems (TOIS)
    - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
    - ACM Transactions on the Web (TWEB)
    - IEEE Transactions on Multimedia (TMM)
