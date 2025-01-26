@@ -41,8 +41,9 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 # 📝 Publications 
 - `ICLR 2025` [IGL-Bench: Establishing the Comprehensive Benchmark for Imbalanced Graph Learning](https://arxiv.org/pdf/2406.09870). Jiawen Qin*, Haonan Yuan*, **Qingyun Sun***, Lyujin Xu, Jiaqi Yuan, Pengfeng Huang, Zhaonan Wang, Xingcheng Fu, Hao Peng, Jianxin Li, Philip S. Yu  
-- `ICLR 2025` [ST-GCond: Self-supervised and Transferable Graph Dataset Condensation](https://openreview.net/pdf?id=wYWJFLQov9), Beining Yang, **Qingyun Sun**$^\dag$, Cheng Ji, Xingcheng Fu, Jianxin Li
-- `AAAI 2025` [GraphMoRE: Mitigating Topological Heterogeneity via Mixture of Riemannian Experts](https://arxiv.org/pdf/2412.11085). Zihao Guo, **Qingyun Sun**$^\dag$, Haonan Yuan, Xingcheng Fu, Min Zhou, Yisen Gao, Jianxin Li.
+- `ICLR 2025` [ST-GCond: Self-supervised and Transferable Graph Dataset Condensation](https://openreview.net/pdf?id=wYWJFLQov9), Beining Yang, **Qingyun Sun**#, Cheng Ji, Xingcheng Fu, Jianxin Li
+- `AAAI 2025` [GraphMoRE: Mitigating Topological Heterogeneity via Mixture of Riemannian Experts](https://arxiv.org/pdf/2412.11085). Zihao Guo, **Qingyun Sun**#, Haonan Yuan, Xingcheng Fu, Min Zhou, Yisen Gao, Jianxin Li.
+
 <!--- `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
 -->
 <!--
