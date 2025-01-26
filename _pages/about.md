@@ -132,6 +132,7 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 <!--
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
+
 # 💻 Service
 ## Conference Reviewer:
    - NeurIPS 2023/2024
@@ -145,9 +146,7 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
    - DASFFA 2024
    - ICASSP 2024/2025
    - AISTATS 2025 
-
 ## Journal Reviewer:
-
    - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
    - IEEE Transactions on Knowledge and Data Engineering (TKDE)
     - ACM Transactions on Information Systems (TOIS)
@@ -161,7 +160,7 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
    - Journal of Computer Science and Technology (JCST)
    - Journal of Social Computing (JSC)
 
-# 💻 Students
+# 👩‍🎓 Students
 - Z. Guo (2024, master)
 - Z. Shen (2024, master)
 - Z. Wang (2024, master)
