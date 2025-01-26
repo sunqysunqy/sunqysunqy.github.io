@@ -140,9 +140,7 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 - *2023.07* &nbsp;2023 the 4th International Conference on Big Data and Artificial Intelligence (BDAI), Intelligent Computing for Complex Graphs.
 - *2023.06* &nbsp;LOGS, Topology Inbalance in Graph Learning. [\[video\]](https://www.bilibili.com/video/BV1Ao4y1E7Pv/)
 - *2023.05* &nbsp;Techbeat, Topological Imbalance in Graph Learning. [\[video\]](https://www.bilibili.com/video/BV1hM4y1q7Bj)
-<!--
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+
 
 # 💻 Service
 **Conference Reviewer:**
@@ -180,5 +178,5 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 - H. Yuan&nbsp;(2022-now, Ph.D.)
 - F. Lu&nbsp;&nbsp;&nbsp;(2022-now,  Ph.D.)
 - B. Yang&nbsp;(2021-2023, master → Ph.D. at University of Edinburgh)
-- Z. Chen&nbsp;(2020-2024, Intern → Ph.D. at University of Edinburgh)
-- Y. Gao&nbsp;&nbsp;(2021-now, Intern → master at HKUST)
+- Z. Chen&nbsp;(2023-2024, Intern → Ph.D. at University of Edinburgh)
+- Y. Gao&nbsp;&nbsp;(2022-now, Intern → master at HKUST)
