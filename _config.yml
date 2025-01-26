@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qingyun Sun\\孙庆赟"
+  name             : "Qingyun Sun"
   avatar           : "images/sqy.jpg"
-  bio              : 
+  bio              : "孙庆赟"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
