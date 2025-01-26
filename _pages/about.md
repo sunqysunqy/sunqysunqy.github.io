@@ -26,14 +26,26 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 - *2025.01*: &nbsp;🎉 **One** paper is accepted by **WWW 2025** 
 - *2024.10*: &nbsp;🎉 **One** paper is accepted by **WSDM 2025**
 - *2024.09*: &nbsp;🎉 **One** paper is accepted by **NeurIPS 2024**
-- *2022.02*: &nbsp;🏆 Our paper has been awarded **CCF Bigdata 2024 Best Paper Award** 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08*: &nbsp;🏆 Our paper has been awarded **CCF Bigdata 2024 Best Paper Award** 
+- *2024.08*: &nbsp;🎉 One paper is accepted by Science China Information Science.
+- *2024.07*: &nbsp;🎉 One paper is accepted by MM 2024
+- *2024.07*: &nbsp;🎉 One paper is accepted by CIKM 2024
+- *2024.06*: &nbsp;🎉 One paper is accepted by IJCAI 2024 GAAMAL.
+- *2024.05*: &nbsp;🎉 One paper is accepted by JMLC.
+- *2024.05*: &nbsp;🏆 I was grateful to be awared "Most Popular Speaker of the Year" at the Techbeat.net
+- *2024.05*: &nbsp;🎉 One paper is accepted by ICML 2024
+- *2024.05*: &nbsp;🌟 We host a challenge Characterizing User Behavior in Social Networks: Propagation, Prediction, and Sensemaking in IEEE BigData Cup 2024
+- *2024.03*: &nbsp;🎉 Two papers are accepted by Journal of Computer Research and Development
+- *2024.02*: &nbsp;🎉 One paper is accepted by COLING 2024
+- *2024.01*: &nbsp;🎉 One paper is accepted by WWW 2024
 
 # 📝 Publications 
-
+- `ICLR 2025` [IGL-Bench: Establishing the Comprehensive Benchmark for Imbalanced Graph Learning](https://arxiv.org/pdf/2406.09870). Jiawen Qin*, Haonan Yuan*, **Qingyun Sun***, Lyujin Xu, Jiaqi Yuan, Pengfeng Huang, Zhaonan Wang, Xingcheng Fu, Hao Peng, Jianxin Li, Philip S. Yu  
+- `ICLR 2025` [ST-GCond: Self-supervised and Transferable Graph Dataset Condensation](https://openreview.net/pdf?id=wYWJFLQov9), Beining Yang, **Qingyun Sun**$^\dag$, Cheng Ji, Xingcheng Fu, Jianxin Li
+- `AAAI 2025` [GraphMoRE: Mitigating Topological Heterogeneity via Mixture of Riemannian Experts](https://arxiv.org/pdf/2412.11085). Zihao Guo, **Qingyun Sun**$^\dag$, Haonan Yuan, Xingcheng Fu, Min Zhou, Yisen Gao, Jianxin Li.
+<!--- `AAAI 2024` [Emotion Rendering for Conversational Speech Synthesis with Heterogeneous Graph-Based Context Modeling](https://arxiv.org/abs/2312.11947), Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
+-->
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -47,6 +59,7 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 
 # 🎖 Honors and Awards
 - *2024.08* CCF Bigdata 2024 Best Paper Award
