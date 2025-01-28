@@ -56,6 +56,8 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 **2024:**
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2024</span>  [GC-Bench: An Open and Unified Benchmark for Graph Condensation](https://arxiv.org/pdf/2407.00615). **Qingyun Sun\***, Ziying Chen\*, Beining Yang, Cheng Ji, Xingcheng Fu, Sheng Zhou, Hao Peng, Jianxin Li, Philip S. Yu
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">SCIS 2024</span>  [Hierarchical graph structure learning with nonlinear information
+bottleneck](https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0049;JSESSIONID=1eb67fb4-1b33-4e79-8797-7cb439780d34). **Qingyun Sun**, Jiayi Luo, Beining Yang, Jianxin Li 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2024</span>  [Dynamic Graph Information Bottleneck](https://arxiv.org/pdf/2402.06716). Haonan Yuan, **Qingyun Sun\#**, Xingcheng Fu, Cheng Ji, Jianxin Li 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICML 2024</span>  [Hyperbolic Geometric Latent Diffusion Model for Graph Generation](https://arxiv.org/pdf/2405.03188). Xingcheng Fu, Yisen Gao, Yuecen Wei, **Qingyun Sun**, Hao Peng, Jianxin Li, Xianxian Li 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">MM 2024</span>  [MIKO: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery](https://arxiv.org/pdf/2402.18169). Feihong Lu, Weiqi Wang, Yangyifei Luo, Ziqin Zhu, **Qingyun Sun\#**, Baixuan Xu, Haochen Shi, Shiqi Gao, Qian Li, Yangqiu Song, Jianxin Li  
@@ -65,6 +67,9 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 - <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">COLING 2024</span> [Few-Shot Multimodal Named Entity Recognition based on Mutlimodal Causal Intervention Graph](https://aclanthology.org/2024.lrec-main.633.pdf). Feihong Lu, Xiaocui Yang, Qian Li, **Qingyun Sun\#**, Ke Jiang,Cheng Ji, Jianxin Li  
 - <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">CIKM 2024</span> [L-APPLE: Language-agnostic Prototype Prefix Learning for Cross-lingual Event Detection](https://dl.acm.org/doi/abs/10.1145/3627673.3679769). Ziqin Zhu, Xutan Peng, Qian Li, Cheng Ji, **Qingyun Sun**, Jianxin Li  
 - <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">IJCAI 2024 GAAMAL</span> [Beyond Human Preferences: Exploring Reinforcement Learning Trajectory Evaluation and Improvement through LLMs](https://arxiv.org/pdf/2406.19644). Zichao Shen, Tianchen Zhu, **Qingyun Sun\#**, Shiqi Gao, Jianxin Li 
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Motif-driven Subgraph Structure Learning for Graph Classification](https://arxiv.org/pdf/2406.08897). Zhiyao Zhou, Sheng Zhou, Bochao Mao, Jiawei Chen, **Qingyun Sun**, Yan Feng, Chun Chen, Can Wang 
+
+
 
 **2023:**
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IEEE TPAMI 2023</span> [Adaptive Subgraph Neural Network with Reinforced Critical Structure Mining](https://ieeexplore.ieee.org/abstract/document/10013693/). Jianxin Li, **Qingyun Sun**, Hao Peng, Beining Yang, Jia Wu, Phillp S. Yu   
@@ -75,6 +80,8 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 - <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">PR 2023</span> [Higher-Order Memory Guided Temporal Random Walk for Dynamic Heterogeneous Network Embedding](https://arxiv.org/pdf/2310.09192). Cheng Ji, Tao Zhao, **Qingyun Sun**, Xingcheng Fu, Jianxin Li
 - <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">WSDM 2023</span> [Unbiased and Efficient Self-Supervised Incremental Contrastive Learning](https://arxiv.org/pdf/2301.12104). Cheng Ji, Jianxin Li, Hao Peng, Jia Wu, Xingcheng Fu, **Qingyun Sun**, Philip S. Yu 
 - <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">KAIS 2023</span> [Adaptive Curvature Exploration Geometric Graph Neural Network](https://link.springer.com/article/10.1007/s10115-022-01811-4). Xingcheng Fu, Jianxin Li, Jia Wu, Jiawen Qin, **Qingyun Sun**, Cheng Ji, Senzhang Wang, Hao Peng, Philip S. Yu 
+- <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">KAIS 2023</span> [Heterogeneous Graph Neural Network with Semantic-aware Differential Privacy Guarantees](https://link.springer.com/article/10.1007/s10115-023-01895-6). Yuecen Wei, Xingcheng Fu, Dongqi Yan, **Qingyun Sun**, Hao Peng, Jia Wu, Jinyan Wang, Xianxian Li 
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Precise influence evaluation in complex networks](https://arxiv.org/pdf/2310.12181). Bingyu Zhu, **Qingyun Sun**, Jianxin Li, Daqing Li 
 
 **Before 2022:**
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2022</span> [Graph Structure Learning with Variational Information Bottleneck](https://arxiv.org/pdf/2301.12104). **Qingyun Sun**, Jianxin Li, Hao Peng, Jia Wu, Xingcheng Fu, Cheng Ji, Philip S. Yu  
