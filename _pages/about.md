@@ -189,4 +189,4 @@ bottleneck](https://www.sciengine.com/SSI/doi/10.1360/SSI-2024-0049;JSESSIONID=1
 <span class='anchor' id='-visitor-map'></span>
 # 🌏️ <font color="#4A708B">Visitor Map</font>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=375e86&w=370&t=tt&d=6gCLp8H0jUJXTDAgwenOxbDgCEaAvQc8Hgj55t1cF1k&co=9ecdee&cmo=ffbdf7&cmn=fffc2e&ct=000000'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nf7yO-t9KRUFd0DmGnZ9iFCwdlR91zbUtFFzCUBlCDY&cl=ffffff&w=a"></script>
