@@ -12,12 +12,6 @@ redirect_from:
 
 ---
 
-{% if site.google\_scholar\_stats\_use\_cdn %}
-{% assign gsDataBaseUrl \= "<https://cdn.jsdelivr.net/gh/>" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl \= "<https://raw.githubusercontent.com/>" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url \= gsDataBaseUrl | append: "google-scholar-stats/gs\_data\_shieldsio.json" %}
 
 I’m currently an assistant professor in the School of Computer Science and Engineering at Beihang University (BUAA). Before that, I received my Ph.D. degree from Beihang University, under the supervision of Prof. Jianxin Li. Further before, I obtained the B.S. degree from Xidian University.
 
