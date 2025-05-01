@@ -59,7 +59,7 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 - _2024.02_  🎉 **One** paper is accepted by **COLING 2024**
 
-- _2024.01_  🎉 **One** paper is accepted by **WWW 2024**
+- _2024.01_  🎉 **One** paper is accepted by **WWW 2024** 
 
 # 📝 Publications
 
