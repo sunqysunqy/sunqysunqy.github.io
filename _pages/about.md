@@ -71,13 +71,13 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 - ICLR 2025 [ST-GCond: Self-supervised and Transferable Graph Dataset Condensation](https://openreview.net/pdf?id=wYWJFLQov9), Beining Yang, **Qingyun Sun#**, Cheng Ji, Xingcheng Fu, Jianxin Li
 
-- ICML 2025 [How Much Can Transfer? BRIDGE: Bounded Multi-Domain Graph Pre-training and Prompt Learning with Generalization Error](), Haonan Yuan, **Qingyun Sun#**, Junhua Shi, Xingcheng Fu, Bryan Hooi, Jianxin Li, Philip S. Yu 
+- ICML 2025 How Much Can Transfer? BRIDGE: Bounded Multi-Domain Graph Pre-training and Prompt Learning with Generalization Error, Haonan Yuan, **Qingyun Sun#**, Junhua Shi, Xingcheng Fu, Bryan Hooi, Jianxin Li, Philip S. Yu 
 
-- IJCAI 2025 [OS-GCL: A One-Shot Learner in Graph Contrastive Learning](),  Cheng Ji, Chenrui He, Qian Li, Qingyun Sun, Xingcheng Fu, Jianxin Li 
+- IJCAI 2025 OS-GCL: A One-Shot Learner in Graph Contrastive Learning,  Cheng Ji, Chenrui He, Qian Li, Qingyun Sun, Xingcheng Fu, Jianxin Li 
 
-- IJCAI 2025 [Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning](),  Yudan Song, Yuecen Wei, Yuhang Lu, Qingyun Sun, Xingcheng Fu, Minglai Shao, Li-e Wang, Chunming Hu, Xianxian Li  
+- IJCAI 2025 Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning,  Yudan Song, Yuecen Wei, Yuhang Lu, Qingyun Sun, Xingcheng Fu, Minglai Shao, Li-e Wang, Chunming Hu, Xianxian Li  
 
-- IJCAI 2025 [An Out-Of-Distribution Membership Inference Attack Approach for Cross-Domain Graph Attacks](),  Jinyan Wang, Liu Yang, Yuecen Wei, Jiaxuan Si, Chenhao Guo, Qingyun Sun, Xingcheng Fu, Xianxian Li 
+- IJCAI 2025 An Out-Of-Distribution Membership Inference Attack Approach for Cross-Domain Graph Attacks,  Jinyan Wang, Liu Yang, Yuecen Wei, Jiaxuan Si, Chenhao Guo, Qingyun Sun, Xingcheng Fu, Xianxian Li 
 
 - WWW 2025 [Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free Diffusion-Based Structure Purification](https://openreview.net/pdf?id=pwdRhjHrEx), Jiayi Luo, **Qingyun Sun#**, Haonan Yuan, Xingcheng Fu, Jianxin Li
 
