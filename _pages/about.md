@@ -21,6 +21,8 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 # 🔥 News
 
+- _2025.05_  🎉 **One** paper is accepted by **ACL 2025**
+
 - _2025.05_  🎉 **One** paper is accepted by **ICML 2025**
 
 - _2025.04_  🎉 **Three** papers are accepted by **IJCAI 2025**
@@ -61,19 +63,21 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 **2025:**
 
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICML 2025</span> How Much Can Transfer? BRIDGE: Bounded Multi-Domain Graph Pre-training and Prompt Learning with Generalization Error. Haonan Yuan, **Qingyun Sun#**, Junhua Shi, Xingcheng Fu, Bryan Hooi, Jianxin Li, Philip S. Yu 
+
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICLR 2025</span> <span style="color:red">(Spotlight)</span> [IGL-Bench: Establishing the Comprehensive Benchmark for Imbalanced Graph Learning](https://arxiv.org/pdf/2406.09870). Jiawen Qin\*, Haonan Yuan\*, **Qingyun Sun**\*, Lyujin Xu, Jiaqi Yuan, Pengfeng Huang, Zhaonan Wang, Xingcheng Fu, Hao Peng, Jianxin Li, Philip S. Yu
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICLR 2025</span> [ST-GCond: Self-supervised and Transferable Graph Dataset Condensation](https://openreview.net/pdf?id=wYWJFLQov9), Beining Yang, **Qingyun Sun#**, Cheng Ji, Xingcheng Fu, Jianxin Li
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICLR 2025</span> [ST-GCond: Self-supervised and Transferable Graph Dataset Condensation](https://openreview.net/pdf?id=wYWJFLQov9). Beining Yang, **Qingyun Sun#**, Cheng Ji, Xingcheng Fu, Jianxin Li
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICML 2025</span> How Much Can Transfer? BRIDGE: Bounded Multi-Domain Graph Pre-training and Prompt Learning with Generalization Error, Haonan Yuan, **Qingyun Sun#**, Junhua Shi, Xingcheng Fu, Bryan Hooi, Jianxin Li, Philip S. Yu 
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ACL 2025</span> Towards Objective Fine-tuning: How LLMs' Prior Knowledge Causes Potential Poor Calibration? Ziming Wang, Zeyu Shi, Haoyi Zhou, Shiqi Gao, **Qingyun Sun**, Jianxin Li
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IJCAI 2025</span> OS-GCL: A One-Shot Learner in Graph Contrastive Learning,  Cheng Ji, Chenrui He, Qian Li, Qingyun Sun, Xingcheng Fu, Jianxin Li 
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IJCAI 2025</span> OS-GCL: A One-Shot Learner in Graph Contrastive Learning. Cheng Ji, Chenrui He, Qian Li, **Qingyun Sun**, Xingcheng Fu, Jianxin Li 
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IJCAI 2025</span> Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning,  Yudan Song, Yuecen Wei, Yuhang Lu, Qingyun Sun, Xingcheng Fu, Minglai Shao, Li-e Wang, Chunming Hu, Xianxian Li  
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IJCAI 2025</span> Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning. Yudan Song, Yuecen Wei, Yuhang Lu, Qingyun Sun, Xingcheng Fu, Minglai Shao, Li-e Wang, Chunming Hu, Xianxian Li  
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IJCAI 2025</span> An Out-Of-Distribution Membership Inference Attack Approach for Cross-Domain Graph Attacks,  Jinyan Wang, Liu Yang, Yuecen Wei, Jiaxuan Si, Chenhao Guo, Qingyun Sun, Xingcheng Fu, Xianxian Li 
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IJCAI 2025</span> An Out-Of-Distribution Membership Inference Attack Approach for Cross-Domain Graph Attacks. Jinyan Wang, Liu Yang, Yuecen Wei, Jiaxuan Si, Chenhao Guo, **Qingyun Sun**, Xingcheng Fu, Xianxian Li 
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2025</span> [Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free Diffusion-Based Structure Purification](https://openreview.net/pdf?id=pwdRhjHrEx), Jiayi Luo, **Qingyun Sun#**, Haonan Yuan, Xingcheng Fu, Jianxin Li
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2025</span> [Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free Diffusion-Based Structure Purification](https://openreview.net/pdf?id=pwdRhjHrEx). Jiayi Luo, **Qingyun Sun#**, Haonan Yuan, Xingcheng Fu, Jianxin Li
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2025</span> [GraphMoRE: Mitigating Topological Heterogeneity via Mixture of Riemannian Experts](https://arxiv.org/pdf/2412.11085). Zihao Guo, **Qingyun Sun#**, Haonan Yuan, Xingcheng Fu, Min Zhou, Yisen Gao, Jianxin Li
 
