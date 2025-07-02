@@ -21,6 +21,8 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 # 🔥 News
 
+- _2025.06_  🎉 **One** paper is accepted by **IEEE TKDE**
+
 - _2025.05_  🎉 **One** paper is accepted by **ACL 2025**
 
 - _2025.05_  🎉 **One** paper is accepted by **ICML 2025**
@@ -63,7 +65,9 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 **2025:**
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICML 2025</span> How Much Can Transfer? BRIDGE: Bounded Multi-Domain Graph Pre-training and Prompt Learning with Generalization Error. Haonan Yuan, **Qingyun Sun#**, Junhua Shi, Xingcheng Fu, Bryan Hooi, Jianxin Li, Philip S. Yu 
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICML 2025</span> [How Much Can Transfer? BRIDGE: Bounded Multi-Domain Graph Foundation Model with Generalization Guarantees](https://openreview.net/pdf?id=bjDKZ3Roax). Haonan Yuan, **Qingyun Sun#**, Junhua Shi, Xingcheng Fu, Bryan Hooi, Jianxin Li, Philip S. Yu
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IEEE TKDE 2025</span> [Hierarchical Text Classification Optimization via Structural Entropy and Singular Smoothing](https://penghao-bdsc.github.io/papers/SIHTC@TKDE_final.pdf). Qitong Liu, Hao Peng, Xiang Huang, Zhifeng Hao, **Qingyun Sun**, Zhengtao Yu, Philip S Yu
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICLR 2025</span> <span style="color:red">(Spotlight)</span> [IGL-Bench: Establishing the Comprehensive Benchmark for Imbalanced Graph Learning](https://arxiv.org/pdf/2406.09870). Jiawen Qin\*, Haonan Yuan\*, **Qingyun Sun**\*, Lyujin Xu, Jiaqi Yuan, Pengfeng Huang, Zhaonan Wang, Xingcheng Fu, Hao Peng, Jianxin Li, Philip S. Yu
 
