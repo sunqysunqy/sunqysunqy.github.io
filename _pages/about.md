@@ -21,7 +21,15 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 # 🔥 News
 
+- _2025.09_  🎉 **Four** papers are accepted by **NeurIPS 2025**
+
+- _2025.07_  🎉 We will organize a workshop regarding [Frontiers in Graph Machine Learning for the Large Model Era](magic-group-buaa.github.io/CIKM2025_workshop/) in **CIKM 2025**. See you in Seoul!
+
 - _2025.06_  🎉 **One** paper is accepted by **IEEE TKDE**
+
+- _2025.05_  🎉 We will give a tutorial regarding [Towards Low-Distortion Graph Representation Learning](https://magic-group-buaa.github.io/IJCAI25_tutorial/) at **IJCAI 2025**. See you in Guangzhou!
+
+- _2025.05_  🎉 We are organizing a competition regarding [Characterizing User Behavior in Social Networks: Propagation, Prediction, and Sensemaking](https://magic-group-buaa.github.io/IJCAI25/index.html) at **IJCAI 2025**. Welcome to join!
 
 - _2025.05_  🎉 **One** paper is accepted by **ACL 2025**
 
@@ -64,6 +72,14 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 \* denotes equal contribution and # denotes corresponding author
 
 **2025:**
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2025</span><span style="color:red">(Spotlight)</span> Robust Graph Condensation via Classification Complexity Mitigation. Jiayi Luo, **Qingyun Sun**, Beining Yang, Haonan Yuan, Xingcheng Fu, Yanbiao Ma, Jianxin Li, Philip S. Yu 
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2025</span> GRAVER: Generative Graph Vocabularies for Robust Graph Foundation Models Fine-tuning. Haonan Yuan, **Qingyun Sun#**, Junhua Shi, Xingcheng Fu, Bryan Hooi, Jianxin Li, Philip S. Yu
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2025</span> GraphKeeper: Graph Domain-Incremental Learning via Knowledge Disentanglement and Preservation. Zihao Guo, **Qingyun Sun#**, Ziwei Zhang, Haonan Yuan, Huiping Zhuang, Xingcheng Fu, Jianxin Li 
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2025</span> Toward a Unified Geometry Understanding: Riemannian Diffusion Framework for Graph Generation and Prediction. Yisen Gao, Xingcheng Fu, **Qingyun Sun**, Jianxin Li, Xianxian Li
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICML 2025</span> [How Much Can Transfer? BRIDGE: Bounded Multi-Domain Graph Foundation Model with Generalization Guarantees](https://openreview.net/pdf?id=bjDKZ3Roax). Haonan Yuan, **Qingyun Sun#**, Junhua Shi, Xingcheng Fu, Bryan Hooi, Jianxin Li, Philip S. Yu
 
