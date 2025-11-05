@@ -20,6 +20,9 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 **\[Prospective students]** Our group has positions for Ph.D. students, Master students, and visiting students. If you are interested, please send me an email with your CV and publications (if any).
 
 # 🔥 News
+- _2025.10_  🎉 **One** paper is accepted by **IEEE TPAMI**
+
+- _2025.10_  🎉 **One** paper is accepted by **IEEE SMC**
 
 - _2025.09_  🎉 **Four** papers are accepted by **NeurIPS 2025**
 
@@ -73,13 +76,17 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 **2025:**
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2025</span><span style="color:red">(Spotlight)</span> Robust Graph Condensation via Classification Complexity Mitigation. Jiayi Luo, **Qingyun Sun**, Beining Yang, Haonan Yuan, Xingcheng Fu, Yanbiao Ma, Jianxin Li, Philip S. Yu 
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IEEE TPAMI 2025</span> [Evolving Graph Learning for Out-of-Distribution Generalization in Non-stationary Environments](https://arxiv.org/pdf/2511.02354). **Qingyun Sun**, Jiayi Luo, Haonan Yuan, Xingcheng Fu, Hao Peng, Jianxin Li, Philip S. Yu
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2025</span> GRAVER: Generative Graph Vocabularies for Robust Graph Foundation Models Fine-tuning. Haonan Yuan, **Qingyun Sun#**, Junhua Shi, Xingcheng Fu, Bryan Hooi, Jianxin Li, Philip S. Yu
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IEEE SMC</span> [Precise influence evaluation in complex networks](https://arxiv.org/pdf/2310.12181). Bingyu Zhu, **Qingyun Sun**, Jianxin Li, Daqing Li
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2025</span> GraphKeeper: Graph Domain-Incremental Learning via Knowledge Disentanglement and Preservation. Zihao Guo, **Qingyun Sun#**, Ziwei Zhang, Haonan Yuan, Huiping Zhuang, Xingcheng Fu, Jianxin Li 
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2025</span><span style="color:red">(Spotlight)</span> [Robust Graph Condensation via Classification Complexity Mitigation](https://arxiv.org/pdf/2510.26451). Jiayi Luo, **Qingyun Sun**, Beining Yang, Haonan Yuan, Xingcheng Fu, Yanbiao Ma, Jianxin Li, Philip S. Yu 
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2025</span> Toward a Unified Geometry Understanding: Riemannian Diffusion Framework for Graph Generation and Prediction. Yisen Gao, Xingcheng Fu, **Qingyun Sun**, Jianxin Li, Xianxian Li
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2025</span> [GRAVER: Generative Graph Vocabularies for Robust Graph Foundation Models Fine-tuning](https://openreview.net/pdf?id=tyERwC5520). Haonan Yuan, **Qingyun Sun#**, Junhua Shi, Xingcheng Fu, Bryan Hooi, Jianxin Li, Philip S. Yu
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2025</span> [GraphKeeper: Graph Domain-Incremental Learning via Knowledge Disentanglement and Preservation](https://arxiv.org/pdf/2511.00097). Zihao Guo, **Qingyun Sun#**, Ziwei Zhang, Haonan Yuan, Huiping Zhuang, Xingcheng Fu, Jianxin Li 
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2025</span> [Toward a Unified Geometry Understanding: Riemannian Diffusion Framework for Graph Generation and Prediction](https://arxiv.org/pdf/2510.04522?). Yisen Gao, Xingcheng Fu, **Qingyun Sun**, Jianxin Li, Xianxian Li
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICML 2025</span> [How Much Can Transfer? BRIDGE: Bounded Multi-Domain Graph Foundation Model with Generalization Guarantees](https://openreview.net/pdf?id=bjDKZ3Roax). Haonan Yuan, **Qingyun Sun#**, Junhua Shi, Xingcheng Fu, Bryan Hooi, Jianxin Li, Philip S. Yu
 
@@ -167,7 +174,7 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 - <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">KAIS 2023</span> [Heterogeneous Graph Neural Network with Semantic-aware Differential Privacy Guarantees](https://link.springer.com/article/10.1007/s10115-023-01895-6). Yuecen Wei, Xingcheng Fu, Dongqi Yan, **Qingyun Sun**, Hao Peng, Jia Wu, Jinyan Wang, Xianxian Li
 
-- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Precise influence evaluation in complex networks](https://arxiv.org/pdf/2310.12181). Bingyu Zhu, **Qingyun Sun**, Jianxin Li, Daqing Li
+
 
 **Before 2022:**
 
