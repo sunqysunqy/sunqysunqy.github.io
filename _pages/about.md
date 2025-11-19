@@ -77,11 +77,11 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 \* denotes equal contribution and # denotes corresponding author
 
 **2026:**
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> Is the Information Bottleneck Robust Enough? Towards Label-Noise Resistant Information Bottleneck Learning. Yi Huang, **Qingyun Sun#**, Yisen Gao, Haonan Yuan, Xingcheng Fu, Jianxin Li
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span><span style="color:red">(Oral)</span> Is the Information Bottleneck Robust Enough? Towards Label-Noise Resistant Information Bottleneck Learning. Yi Huang, **Qingyun Sun#**, Yisen Gao, Haonan Yuan, Xingcheng Fu, Jianxin Li
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> SA²GFM: Enhancing Robust Graph Foundation Models with Structure-Aware Semantic Augmentation. Junhua Shi, **Qingyun Sun#**, Haonan Yuan, Xingcheng Fu
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> Privacy Auditing of Multi-domain Graph Pre-trained Model under Membership Inference Attacks. Jiayi Luo, **Qingyun Sun**, Yuecen Wei, Haonan Yuan, Xingcheng Fu, Jianxin Li
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span><span style="color:red">(Oral)</span> Privacy Auditing of Multi-domain Graph Pre-trained Model under Membership Inference Attacks. Jiayi Luo, **Qingyun Sun**, Yuecen Wei, Haonan Yuan, Xingcheng Fu, Jianxin Li
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> Towards Effective, Stealthy, and Persistent Backdoor Attacks Targeting Graph Foundation Models. Jiayi Luo, **Qingyun Sun**, Lingjuan Lyu, Ziwei Zhang, Haonan Yuan, Xingcheng Fu, Jianxin Li
 
