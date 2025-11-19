@@ -20,6 +20,8 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 **\[Prospective students]** Our group has positions for Ph.D. students, Master students, and visiting students. If you are interested, please send me an email with your CV and publications (if any).
 
 # 🔥 News
+- _2025.11_  🎉 **Six** papers are accepted by **AAAI 2026**
+
 - _2025.10_  🎉 **One** paper is accepted by **IEEE TPAMI**
 
 - _2025.10_  🎉 **One** paper is accepted by **IEEE SMC**
@@ -73,6 +75,19 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 # 📝 Publications
 
 \* denotes equal contribution and # denotes corresponding author
+
+**2026:**
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> Is the Information Bottleneck Robust Enough? Towards Label-Noise Resistant Information Bottleneck Learning. Yi Huang, **Qingyun Sun#**, Yisen Gao, Haonan Yuan, Xingcheng Fu, Jianxin Li
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> SA²GFM: Enhancing Robust Graph Foundation Models with Structure-Aware Semantic Augmentation. Junhua Shi, **Qingyun Sun#**, Haonan Yuan, Xingcheng Fu
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> Privacy Auditing of Multi-domain Graph Pre-trained Model under Membership Inference Attacks. Jiayi Luo, **Qingyun Sun**, Yuecen Wei, Haonan Yuan, Xingcheng Fu, Jianxin Li
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> Towards Effective, Stealthy, and Persistent Backdoor Attacks Targeting Graph Foundation Models. Jiayi Luo, **Qingyun Sun**, Lingjuan Lyu, Ziwei Zhang, Haonan Yuan, Xingcheng Fu, Jianxin Li
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> Fine-Tuned LLMs Know They Don't Know: A Parameter-Efficient Approach to Recovering Honesty. Zeyu Shi, Ziming Wang, Haoyi Zhou, Shiqi Gao, Tianyu Chen, **Qingyun Sun**, Jianxin Li
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> Towards LLM-Empowered Knowledge Tracing via LLM-Student Hierarchical Behavior Alignment in Hyperbolic Space. Xingcheng Fu, Shengpeng Wang, Yisen Gao, Dongran Yu, Chunpei Li, **Qingyun Sun**, Xianxian Li
 
 **2025:**
 
@@ -301,6 +316,18 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 - Journal of Social Computing (JSC)
 
 # 👩‍🎓 Students
+
+<!-- - J. Shi   (2025-now, master)
+
+- X. Zhao   (2025-now, master)
+
+- J. Li   (2025-now, master)
+
+- Z. Zhuang  (2025-now, master)
+
+- X. Guan  (2025-now, master) -->
+
+- J. Luo   (2024-now, Ph.D.)
 
 - Z. Guo  (2024-now, master)
 
