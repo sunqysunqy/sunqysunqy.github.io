@@ -20,6 +20,8 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 **\[Prospective students]** Our group has positions for Ph.D. students, Master students, and visiting students. If you are interested, please send me an email with your CV and publications (if any).
 
 # 🔥 News
+- _2025.11_  🎉 **One** paper is accepted by **KDD 2026**
+
 - _2025.11_  🎉 **Six** papers are accepted by **AAAI 2026**
 
 - _2025.10_  🎉 **One** paper is accepted by **IEEE TPAMI**
@@ -77,6 +79,8 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 \* denotes equal contribution and # denotes corresponding author
 
 **2026:**
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">KDD 2026</span> Mitigating Privacy Risks in Graph Condensation from a Hyperbolic Geometry Perspective. Yuecen Wei, Liu Yang, Beining Yang, **Qingyun Sun#**, Hao Peng, Tianyu Wo, Chunming Hu, Xingcheng Fu
+
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span><span style="color:red">(Oral)</span> Is the Information Bottleneck Robust Enough? Towards Label-Noise Resistant Information Bottleneck Learning. Yi Huang, **Qingyun Sun#**, Yisen Gao, Haonan Yuan, Xingcheng Fu, Jianxin Li
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> SA²GFM: Enhancing Robust Graph Foundation Models with Structure-Aware Semantic Augmentation. Junhua Shi, **Qingyun Sun#**, Haonan Yuan, Xingcheng Fu
@@ -85,7 +89,7 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> Towards Effective, Stealthy, and Persistent Backdoor Attacks Targeting Graph Foundation Models. Jiayi Luo, **Qingyun Sun**, Lingjuan Lyu, Ziwei Zhang, Haonan Yuan, Xingcheng Fu, Jianxin Li
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> Fine-Tuned LLMs Know They Don't Know: A Parameter-Efficient Approach to Recovering Honesty. Zeyu Shi, Ziming Wang, Haoyi Zhou, Shiqi Gao, Tianyu Chen, **Qingyun Sun**, Jianxin Li
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> [Fine-Tuned LLMs Know They Don't Know: A Parameter-Efficient Approach to Recovering Honesty.](https://arxiv.org/pdf/2511.12991) Zeyu Shi, Ziming Wang, Haoyi Zhou, Shiqi Gao, Tianyu Chen, **Qingyun Sun**, Jianxin Li
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> Towards LLM-Empowered Knowledge Tracing via LLM-Student Hierarchical Behavior Alignment in Hyperbolic Space. Xingcheng Fu, Shengpeng Wang, Yisen Gao, Dongran Yu, Chunpei Li, **Qingyun Sun**, Xianxian Li
 
@@ -263,6 +267,11 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 # 💻 Service
 
+**Area Chair:**
+
+- ICML 2026
+- ICLR 2026
+
 **Conference Reviewer:**
 
 - NeurIPS 2023/2024/2025
@@ -283,7 +292,7 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 - CIKM 2024/2025
 
-- DASFFA 2024
+- DASFFA 2024/2025
 
 - ICASSP 2024/2025
 
