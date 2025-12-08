@@ -79,7 +79,7 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 \* denotes equal contribution and # denotes corresponding author
 
 **2026:**
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">KDD 2026</span> Mitigating Privacy Risks in Graph Condensation from a Hyperbolic Geometry Perspective. Yuecen Wei, Liu Yang, Beining Yang, **Qingyun Sun#**, Hao Peng, Tianyu Wo, Chunming Hu, Xingcheng Fu
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">KDD 2026</span> Mitigating Privacy Risks in Graph Condensation from a Hyperbolic Geometry Perspective. Yuecen Wei, Liu Yang, Beining Yang, **Qingyun Sun**, Hao Peng, Tianyu Wo, Chunming Hu, Xingcheng Fu
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span><span style="color:red">(Oral)</span> Is the Information Bottleneck Robust Enough? Towards Label-Noise Resistant Information Bottleneck Learning. Yi Huang, **Qingyun Sun#**, Yisen Gao, Haonan Yuan, Xingcheng Fu, Jianxin Li
 
