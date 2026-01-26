@@ -13,13 +13,19 @@ redirect_from:
 ---
 
 
-I’m currently an assistant professor in the School of Computer Science and Engineering at Beihang University (BUAA). Before that, I received my Ph.D. degree from Beihang University, under the supervision of Prof. Jianxin Li. Further before, I obtained the B.S. degree from Xidian University.
+I’m currently an associate professor in the School of Computer Science and Engineering at Beihang University (BUAA). Before that, I received my Ph.D. degree from Beihang University, under the supervision of Prof. Jianxin Li. Further before, I obtained the B.S. degree from Xidian University.
 
 My research interests include Data Mining, Deep Graph Learning and Trustworthy AI. Please feel free to send me an email if interested to discuss or work together.
 
 **\[Prospective students]** Our group has positions for Ph.D. students, Master students, and visiting students. If you are interested, please send me an email with your CV and publications (if any).
 
 # 🔥 News
+- _2026.01_  🎉 **One** paper is accepted by **ICLR 2026**
+
+- _2026.01_  🌟 I will give a invited talk in [5th Workshop on Graphs and more Complex Structures For Learning and Reasoning](https://sites.google.com/view/gclr2026/home) in **AAAI 2026**. See you in Singapore!
+
+- _2026.01_  🎉 **Five** paper is accepted by **WWW 2026**
+
 - _2025.11_  🎉 **One** paper is accepted by **KDD 2026**
 
 - _2025.11_  🎉 **Six** papers are accepted by **AAAI 2026**
@@ -48,6 +54,7 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 - _2025.01_  🎉 **One** paper is accepted by **WWW 2025**
 
+<!-- 
 - _2024.12_  🎉 **Five** papers are accepted by **AAAI 2025**
 
 - _2024.10_  🎉 **One** paper is accepted by **WSDM 2025**
@@ -72,22 +79,40 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 - _2024.02_  🎉 **One** paper is accepted by **COLING 2024**
 
-- _2024.01_  🎉 **One** paper is accepted by **WWW 2024** 
+- _2024.01_  🎉 **One** paper is accepted by **WWW 2024** -->
 
 # 📝 Publications
 
 \* denotes equal contribution and # denotes corresponding author
 
 **2026:**
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Information-Theoretic Foundations and Advances in Graph Machine Learning: A Comprehensive Survey](https://d197for5662m48.cloudfront.net/documents/publicationstatus/300575/preprint_pdf/59dec1534ff3eef424492c2a68582ce4.pdf). **Qingyun Sun**, Yi Huang, Haonan Yuan, Xingcheng Fu, Yisen Gao, Jia Wu, Shujian Yu, Angsheng Li, Jianxin Li, Philip S Yu
+
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning](https://arxiv.org/pdf/2507.13396?). **Qingyun Sun**, Jiaqi Yuan, Shan He, Xiao Guan, Haonan Yuan, Xingcheng Fu, Jianxin Li, Philip S Yu
+
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models](https://arxiv.org/pdf/2601.11342). Chuanyue Yu, Jiahui Wang, Yuhan Li, Heng Chang, Ge Lan, **Qingyun Sun**, Jia Li, Jianxin Li, Ziwei Zhang
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICLR 2026</span> [Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs.](https://arxiv.org/pdf/2505.20948) Yisen Gao, Jiaxin Bai, Tianshi Zheng, Ziwei Zhang, **Qingyun Sun**, Xingcheng Fu, Jianxin Li, Yangqiu Song
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> Graph Diffusion Evolution Model for Multi-Conditional Molecular Generation. Xingcheng Fu, Lingyun Liu, Yisen Gao, Tianyu Chen, **Qingyun Sun#**, Jianxin Li, Xianxian Li
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> [Overcoming In-Memory Bottlenecks in Graph Foundation Models via Retrieval-Augmented Generation](https://arxiv.org/pdf/2601.15124). Haonan Yuan, **Qingyun Sun**, Jiacheng Tao, Xingcheng Fu, Jianxin Li
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> Towards Geometry-Consistent Federated Graph Learning. Yuecen Wei, Zhiyu Zhuang, Yisen Gao, Xingcheng Fu, **Qingyun Sun**, Ziwei Zhang, Tianyu Wo, Chunming Hu
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning. Chuanyue Yu, Kuo Zhao, Yuhan Li, Heng Chang, Mingjian Feng, Xiangzhe Jiang, Yufei Sun, Jia Li, Yuzhi Zhang, **Qingyun Sun**, Jianxin Li, Ziwei Zhang
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> Unifying Deductive and Abductive Reasoning in Knowledge Graphs with Masked Diffusion Model. Yisen Gao, Jiaxin Bai, Yi Huang, Xingcheng Fu, **Qingyun Sun**, Yangqiu Song
+
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">KDD 2026</span> Mitigating Privacy Risks in Graph Condensation from a Hyperbolic Geometry Perspective. Yuecen Wei, Liu Yang, Beining Yang, **Qingyun Sun**, Hao Peng, Tianyu Wo, Chunming Hu, Xingcheng Fu
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span><span style="color:red">(Oral)</span> Is the Information Bottleneck Robust Enough? Towards Label-Noise Resistant Information Bottleneck Learning. Yi Huang, **Qingyun Sun#**, Yisen Gao, Haonan Yuan, Xingcheng Fu, Jianxin Li
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span><span style="color:red">(Oral)</span> [Is the Information Bottleneck Robust Enough? Towards Label-Noise Resistant Information Bottleneck Learning.](https://arxiv.org/pdf/2512.10573) Yi Huang, **Qingyun Sun#**, Yisen Gao, Haonan Yuan, Xingcheng Fu, Jianxin Li
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> SA²GFM: Enhancing Robust Graph Foundation Models with Structure-Aware Semantic Augmentation. Junhua Shi, **Qingyun Sun#**, Haonan Yuan, Xingcheng Fu
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> [SA²GFM: Enhancing Robust Graph Foundation Models with Structure-Aware Semantic Augmentation.](https://arxiv.org/pdf/2512.07857) Junhua Shi, **Qingyun Sun#**, Haonan Yuan, Xingcheng Fu
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span><span style="color:red">(Oral)</span> Privacy Auditing of Multi-domain Graph Pre-trained Model under Membership Inference Attacks. Jiayi Luo, **Qingyun Sun**, Yuecen Wei, Haonan Yuan, Xingcheng Fu, Jianxin Li
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span><span style="color:red">(Oral)</span> [Privacy Auditing of Multi-domain Graph Pre-trained Model under Membership Inference Attacks.](https://arxiv.org/pdf/2511.17989) Jiayi Luo, **Qingyun Sun**, Yuecen Wei, Haonan Yuan, Xingcheng Fu, Jianxin Li
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> Towards Effective, Stealthy, and Persistent Backdoor Attacks Targeting Graph Foundation Models. Jiayi Luo, **Qingyun Sun**, Lingjuan Lyu, Ziwei Zhang, Haonan Yuan, Xingcheng Fu, Jianxin Li
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> [Towards Effective, Stealthy, and Persistent Backdoor Attacks Targeting Graph Foundation Models.](https://arxiv.org/pdf/2511.17982) Jiayi Luo, **Qingyun Sun**, Lingjuan Lyu, Ziwei Zhang, Haonan Yuan, Xingcheng Fu, Jianxin Li
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> [Fine-Tuned LLMs Know They Don't Know: A Parameter-Efficient Approach to Recovering Honesty.](https://arxiv.org/pdf/2511.12991) Zeyu Shi, Ziming Wang, Haoyi Zhou, Shiqi Gao, Tianyu Chen, **Qingyun Sun**, Jianxin Li
 
@@ -117,9 +142,9 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ACL 2025</span> [Towards Objective Fine-tuning: How LLMs' Prior Knowledge Causes Potential Poor Calibration?](https://arxiv.org/pdf/2505.20903) Ziming Wang, Zeyu Shi, Haoyi Zhou, Shiqi Gao, **Qingyun Sun**, Jianxin Li
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IJCAI 2025</span> OS-GCL: A One-Shot Learner in Graph Contrastive Learning. Cheng Ji, Chenrui He, Qian Li, **Qingyun Sun**, Xingcheng Fu, Jianxin Li 
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IJCAI 2025</span> [OS-GCL: A One-Shot Learner in Graph Contrastive Learning.](https://www.ijcai.org/proceedings/2025/0330.pdf) Cheng Ji, Chenrui He, Qian Li, **Qingyun Sun**, Xingcheng Fu, Jianxin Li 
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IJCAI 2025</span> Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning. Yudan Song, Yuecen Wei, Yuhang Lu, Qingyun Sun, Xingcheng Fu, Minglai Shao, Li-e Wang, Chunming Hu, Xianxian Li  
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IJCAI 2025</span> [Mitigating Message Imbalance in Fraud Detection with Dual-View Graph Representation Learning.](https://arxiv.org/pdf/2507.06469) Yudan Song, Yuecen Wei, Yuhang Lu, Qingyun Sun, Xingcheng Fu, Minglai Shao, Li-e Wang, Chunming Hu, Xianxian Li  
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IJCAI 2025</span> [An Out-Of-Distribution Membership Inference Attack Approach for Cross-Domain Graph Attacks](https://arxiv.org/pdf/2505.20074). Jinyan Wang, Liu Yang, Yuecen Wei, Jiaxuan Si, Chenhao Guo, **Qingyun Sun**, Xingcheng Fu, Xianxian Li 
 
@@ -141,7 +166,7 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">JMLC 2025</span> [A comprehensive survey on GNN-based anomaly detection: taxonomy, methods, and the role of large language models](https://link.springer.com/article/10.1007/s13042-024-02516-6). Ziqi Yuan, **Qingyun Sun#**, Haoyi Zhou, Minglai Shao, Xingcheng Fu
 
-- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs](https://arxiv.org/pdf/2505.20948). Yisen Gao, Jiaxin Bai, Tianshi Zheng, **Qingyun Sun**, Ziwei Zhang, Jianxin Li, Yangqiu Song, Xingcheng Fu
+
 
 
 **2024:**
@@ -245,6 +270,13 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 # 💬 Invited Talks
 
+- _2026.01_  AAAI 2026: 5th Workshop on
+Graphs and more Complex Structures For Learning and Reasoning, Graph Machine Learning for the Large Model Era. 
+
+- _2025.11_  AI TIME, NeuIPS 2026 Pre-talk ACT-BD session. [\[video\]](https://b23.tv/ckhjECZ)
+
+- _2025.09_  CCF Bigdata 2025, Graph Structure Learning for Knowledge in Big Data.
+
 - _2025.01_  AI TIME, AAAI 2025 Pre-talk ACT-BD session. [\[video\]](https://www.bilibili.com/video/BV1bhr6YuEjL)
 
 - _2024.12_  LOG 2024 Kunshan Meetup, Towards Low-Distortion Graph Representation Learning.
@@ -280,19 +312,19 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 - ICML 2024/2025
 
-- AAAI 2022/2023/2024/2025
+- AAAI 2022/2023/2024/2025/2026
 
-- IJCAI 2024/2025
+- IJCAI 2024/2025/2026
 
-- WWW 2021/2022/2024/2025
+- WWW 2021/2022/2024/2025/2026
 
-- KDD 2021/2022/2024/2025
+- KDD 2021/2022/2024/2025/2026
 
 - ICDM 2023
 
 - CIKM 2024/2025
 
-- DASFFA 2024/2025
+- DASFFA 2024/2025/2026
 
 - ICASSP 2024/2025
 
