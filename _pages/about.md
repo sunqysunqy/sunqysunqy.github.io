@@ -24,7 +24,7 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 - _2026.01_  🌟 I will give a invited talk in [5th Workshop on Graphs and more Complex Structures For Learning and Reasoning](https://sites.google.com/view/gclr2026/home) in **AAAI 2026**. See you in Singapore!
 
-- _2026.01_  🎉 **Five** paper is accepted by **WWW 2026**
+- _2026.01_  🎉 **Five** papers are accepted by **WWW 2026**
 
 - _2025.11_  🎉 **One** paper is accepted by **KDD 2026**
 
@@ -102,7 +102,7 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning. Chuanyue Yu, Kuo Zhao, Yuhan Li, Heng Chang, Mingjian Feng, Xiangzhe Jiang, Yufei Sun, Jia Li, Yuzhi Zhang, **Qingyun Sun**, Jianxin Li, Ziwei Zhang
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> Unifying Deductive and Abductive Reasoning in Knowledge Graphs with Masked Diffusion Model. Yisen Gao, Jiaxin Bai, Yi Huang, Xingcheng Fu, **Qingyun Sun**, Yangqiu Song
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> [Unifying Deductive and Abductive Reasoning in Knowledge Graphs with Masked Diffusion Model.](https://arxiv.org/pdf/2510.11462) Yisen Gao, Jiaxin Bai, Yi Huang, Xingcheng Fu, **Qingyun Sun**, Yangqiu Song
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">KDD 2026</span> Mitigating Privacy Risks in Graph Condensation from a Hyperbolic Geometry Perspective. Yuecen Wei, Liu Yang, Beining Yang, **Qingyun Sun**, Hao Peng, Tianyu Wo, Chunming Hu, Xingcheng Fu
 
@@ -226,7 +226,7 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2022</span> [Curvature Graph Generative Adversarial Networks](https://arxiv.org/pdf/2203.01604). Jianxin Li, Xingcheng Fu, **Qingyun Sun**, Cheng Ji, Jiajun Tan, Jia Wu, Hao Peng
 
-- <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">CIKM 2022</span> (Best Paper Honorable Mention Award) [Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-squashing](https://arxiv.org/pdf/2301.12104). **Qingyun Sun**, Jianxin Li, Haonan Yuan, Xingcheng Fu, Hao Peng, Cheng Ji, Qian Li, Philip S. Yu
+- <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">CIKM 2022</span> <span style="color:red">(Best Paper Honorable Mention Award)</span> [Position-aware Structure Learning for Graph Topology-imbalance by Relieving Under-reaching and Over-squashing](https://arxiv.org/pdf/2301.12104). **Qingyun Sun**, Jianxin Li, Haonan Yuan, Xingcheng Fu, Hao Peng, Cheng Ji, Qian Li, Philip S. Yu
 
 - <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">CIKM 2022</span> [Automating DBSCAN via Deep Reinforcement Learning](https://arxiv.org/pdf/2208.04537). Ruitong Zhang, Hao Peng, Yingtong Dou, Jia Wu, Qingyun Sun, Yangyang Li, Jingyi Zhang, Philip S. Yu
 
@@ -243,6 +243,8 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 - <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">ICDM 2020</span> [Pairwise Learning for Name Disambiguation in Large-Scale Heterogeneous Academic Networks](https://arxiv.org/pdf/2008.13099). **Qingyun Sun\***, Hao Peng\*, Jianxin Li, Senzhang Wang, Xiangyu Dong, Liangxuan Zhao, Philip S. Yu, Lifang He
 
 # 🏆 Honors and Awards
+
+- _2025.11_ Chinese Institute of Electronics (CIE) Young Elite Scientists Sponsorship Program
 
 - _2025.03_ Chinese Institute of Electronics (CIE) Outstanding Doctoral Dissertation Award
 
@@ -264,8 +266,6 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 - _2021.10_  ICDM 2021 Best Paper Candidate
 
-- _2021.07_  The First Prize at the 7th China "Internet+" Innovation and Entrepreneurship Competition (Beijing)
-
 - _2021.03_  Student Scholarship Award of The Web Conference 2021
 
 # 💬 Invited Talks
@@ -276,6 +276,8 @@ Graphs and more Complex Structures For Learning and Reasoning, Graph Machine Lea
 - _2025.11_  AI TIME, NeuIPS 2026 Pre-talk ACT-BD session. [\[video\]](https://b23.tv/ckhjECZ)
 
 - _2025.09_  CCF Bigdata 2025, Graph Structure Learning for Knowledge in Big Data.
+
+- _2025.08_  IJCAI 2025, Tutorial: Towards Low-Distortion Graph Representation Learning.
 
 - _2025.01_  AI TIME, AAAI 2025 Pre-talk ACT-BD session. [\[video\]](https://www.bilibili.com/video/BV1bhr6YuEjL)
 
