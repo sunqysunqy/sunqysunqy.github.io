@@ -360,7 +360,7 @@ Graphs and more Complex Structures For Learning and Reasoning, Graph Machine Lea
 
 # 👩‍🎓 Students
 
-<!-- - J. Shi   (2025-now, master)
+- J. Shi   (2025-now, master)
 
 - X. Zhao   (2025-now, master)
 
@@ -368,7 +368,7 @@ Graphs and more Complex Structures For Learning and Reasoning, Graph Machine Lea
 
 - Z. Zhuang  (2025-now, master)
 
-- X. Guan  (2025-now, master) -->
+- X. Guan  (2025-now, master)
 
 - J. Luo   (2024-now, Ph.D.)
 
