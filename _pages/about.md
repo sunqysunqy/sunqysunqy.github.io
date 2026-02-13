@@ -86,11 +86,14 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 \* denotes equal contribution and # denotes corresponding author
 
 **2026:**
+
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Rich-Media Re-Ranker: A User Satisfaction-Driven LLM Re-ranking Framework for Rich-Media Search](https://arxiv.org/pdf/2602.05408). Zihao Guo, Ligang Zhou#, Zeyang Tang, Feicheng Li, Ying Nie, Zhiming Peng, **Qingyun Sun#**, Jianxin Li
+
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models](https://arxiv.org/pdf/2601.11342). Chuanyue Yu, Jiahui Wang, Yuhan Li, Heng Chang, Ge Lan, **Qingyun Sun**, Jia Li, Jianxin Li, Ziwei Zhang
+
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Information-Theoretic Foundations and Advances in Graph Machine Learning: A Comprehensive Survey](https://d197for5662m48.cloudfront.net/documents/publicationstatus/300575/preprint_pdf/59dec1534ff3eef424492c2a68582ce4.pdf). **Qingyun Sun**, Yi Huang, Haonan Yuan, Xingcheng Fu, Yisen Gao, Jia Wu, Shujian Yu, Angsheng Li, Jianxin Li, Philip S Yu
 
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning](https://arxiv.org/pdf/2507.13396?). **Qingyun Sun**, Jiaqi Yuan, Shan He, Xiao Guan, Haonan Yuan, Xingcheng Fu, Jianxin Li, Philip S Yu
-
-- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models](https://arxiv.org/pdf/2601.11342). Chuanyue Yu, Jiahui Wang, Yuhan Li, Heng Chang, Ge Lan, **Qingyun Sun**, Jia Li, Jianxin Li, Ziwei Zhang
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICLR 2026</span> [Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs.](https://arxiv.org/pdf/2505.20948) Yisen Gao, Jiaxin Bai, Tianshi Zheng, Ziwei Zhang, **Qingyun Sun**, Xingcheng Fu, Jianxin Li, Yangqiu Song
 
