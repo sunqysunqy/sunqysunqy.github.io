@@ -20,6 +20,9 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 **\[Prospective students]** Our group has positions for Ph.D. students, Master students, and visiting students. If you are interested, please send me an email with your CV and publications (if any).
 
 # 🔥 News
+
+- _2026.02_  🌟 We will organize the [2nd Workshop on Frontiers in Graph Machine Learning for the Large Model Era](magic-group-buaa.github.io/CIKM2025_workshop/) in **KDD 2026**. See you in Jeju!
+
 - _2026.01_  🎉 **One** paper is accepted by **ICLR 2026**
 
 - _2026.01_  🌟 I will give a invited talk in [5th Workshop on Graphs and more Complex Structures For Learning and Reasoning](https://sites.google.com/view/gclr2026/home) in **AAAI 2026**. See you in Singapore!
@@ -89,25 +92,31 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Rich-Media Re-Ranker: A User Satisfaction-Driven LLM Re-ranking Framework for Rich-Media Search](https://arxiv.org/pdf/2602.05408). Zihao Guo, Ligang Zhou#, Zeyang Tang, Feicheng Li, Ying Nie, Zhiming Peng, **Qingyun Sun#**, Jianxin Li
 
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization](https://arxiv.org/pdf/2603.20213). Jiaqi Yuan, Jialu Wang, Zihan Wang, **Qingyun Sun**, Ruijie Wang, Jianxin Li
+
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Training-Free Sparse Attention for Fast Video Generation via Offline Layer-Wise Sparsity Profiling and Online Bidirectional Co-Clustering](https://arxiv.org/pdf/2603.18636). Jiayi Luo, Jiayu Chen, Jiankun Wang, Cong Wang, Hanxin Zhu, **Qingyun Sun**, Chen Gao, Zhibo Chen, Jianxin Li
+
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models](https://arxiv.org/pdf/2601.11342). Chuanyue Yu, Jiahui Wang, Yuhan Li, Heng Chang, Ge Lan, **Qingyun Sun**, Jia Li, Jianxin Li, Ziwei Zhang
 
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Information-Theoretic Foundations and Advances in Graph Machine Learning: A Comprehensive Survey](https://d197for5662m48.cloudfront.net/documents/publicationstatus/300575/preprint_pdf/59dec1534ff3eef424492c2a68582ce4.pdf). **Qingyun Sun**, Yi Huang, Haonan Yuan, Xingcheng Fu, Yisen Gao, Jia Wu, Shujian Yu, Angsheng Li, Jianxin Li, Philip S Yu
 
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning](https://arxiv.org/pdf/2507.13396?). **Qingyun Sun**, Jiaqi Yuan, Shan He, Xiao Guan, Haonan Yuan, Xingcheng Fu, Jianxin Li, Philip S Yu
 
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts](https://arxiv.org/pdf/2602.06859). Xinyu Zhao, **Qingyun Sun#**, Jiayi Luo, Xingcheng Fu, Jianxin Li
+
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICLR 2026</span> [Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs.](https://arxiv.org/pdf/2505.20948) Yisen Gao, Jiaxin Bai, Tianshi Zheng, Ziwei Zhang, **Qingyun Sun**, Xingcheng Fu, Jianxin Li, Yangqiu Song
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> Graph Diffusion Evolution Model for Multi-Conditional Molecular Generation. Xingcheng Fu, Lingyun Liu, Yisen Gao, Tianyu Chen, **Qingyun Sun#**, Jianxin Li, Xianxian Li
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> [Graph Diffusion Evolution Model for Multi-Conditional Molecular Generation](https://dl.acm.org/doi/pdf/10.1145/3774904.3792118). Xingcheng Fu, Lingyun Liu, Yisen Gao, Tianyu Chen, **Qingyun Sun#**, Jianxin Li, Xianxian Li
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> [Overcoming In-Memory Bottlenecks in Graph Foundation Models via Retrieval-Augmented Generation](https://arxiv.org/pdf/2601.15124). Haonan Yuan, **Qingyun Sun**, Jiacheng Tao, Xingcheng Fu, Jianxin Li
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> Towards Geometry-Consistent Federated Graph Learning. Yuecen Wei, Zhiyu Zhuang, Yisen Gao, Xingcheng Fu, **Qingyun Sun**, Ziwei Zhang, Tianyu Wo, Chunming Hu
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> [Towards Geometry-Consistent Federated Graph Learning](https://dl.acm.org/doi/pdf/10.1145/3774904.3792655). Yuecen Wei, Zhiyu Zhuang, Yisen Gao, Xingcheng Fu, **Qingyun Sun**, Ziwei Zhang, Tianyu Wo, Chunming Hu
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning. Chuanyue Yu, Kuo Zhao, Yuhan Li, Heng Chang, Mingjian Feng, Xiangzhe Jiang, Yufei Sun, Jia Li, Yuzhi Zhang, **Qingyun Sun**, Jianxin Li, Ziwei Zhang
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> [GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning](https://dl.acm.org/doi/pdf/10.1145/3774904.3792589). Chuanyue Yu, Kuo Zhao, Yuhan Li, Heng Chang, Mingjian Feng, Xiangzhe Jiang, Yufei Sun, Jia Li, Yuzhi Zhang, **Qingyun Sun**, Jianxin Li, Ziwei Zhang
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">WWW 2026</span> [Unifying Deductive and Abductive Reasoning in Knowledge Graphs with Masked Diffusion Model.](https://arxiv.org/pdf/2510.11462) Yisen Gao, Jiaxin Bai, Yi Huang, Xingcheng Fu, **Qingyun Sun**, Yangqiu Song
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">KDD 2026</span> Mitigating Privacy Risks in Graph Condensation from a Hyperbolic Geometry Perspective. Yuecen Wei, Liu Yang, Beining Yang, **Qingyun Sun**, Hao Peng, Tianyu Wo, Chunming Hu, Xingcheng Fu
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">KDD 2026</span> [Mitigating Privacy Risks in Graph Condensation from a Hyperbolic Geometry Perspective](https://dl.acm.org/doi/pdf/10.1145/3770854.3780335). Yuecen Wei, Liu Yang, Beining Yang, **Qingyun Sun**, Hao Peng, Tianyu Wo, Chunming Hu, Xingcheng Fu
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span><span style="color:red">(Oral)</span> [Is the Information Bottleneck Robust Enough? Towards Label-Noise Resistant Information Bottleneck Learning.](https://arxiv.org/pdf/2512.10573) Yi Huang, **Qingyun Sun#**, Yisen Gao, Haonan Yuan, Xingcheng Fu, Jianxin Li
 
