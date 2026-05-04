@@ -15,11 +15,13 @@ redirect_from:
 
 I’m currently an associate professor in the School of Computer Science and Engineering at Beihang University (BUAA). Before that, I received my Ph.D. degree from Beihang University, under the supervision of Prof. Jianxin Li. Further before, I obtained the B.S. degree from Xidian University.
 
-My research interests include Data Mining, Deep Graph Learning and Trustworthy AI. Please feel free to send me an email if interested to discuss or work together.
+My research interests include Deep Graph Learning, Agent and Trustworthy AI. Please feel free to send me an email if interested to discuss or work together.
 
 **\[Prospective students]** Our group has positions for Ph.D. students, Master students, and visiting students. If you are interested, please send me an email with your CV and publications (if any).
 
 # 🔥 News
+
+- _2026.05_  🎉 **Two** papers are accepted by **ICML 2026**
 
 - _2026.02_  🌟 We will organize the [2nd Workshop on Frontiers in Graph Machine Learning for the Large Model Era](magic-group-buaa.github.io/CIKM2025_workshop/) in **KDD 2026**. See you in Jeju!
 
@@ -90,11 +92,11 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 **2026:**
 
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [A Survey on Foundation Models for Structured Data: Tabular, Time Series, and Graphs](https://www.researchgate.net/publication/404353882_A_Survey_on_Foundation_Models_for_Structured_Data_Tabular_Time_Series_and_Graphs). **Qingyun Sun**, Haonan Yuan, Yi Huang, Ziwei Zhang, Xingcheng Fu, Ruijie Wang, Haoyi Zhou,Jia Wu, Jianxin Li, Philip S. Yu
+
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Rich-Media Re-Ranker: A User Satisfaction-Driven LLM Re-ranking Framework for Rich-Media Search](https://arxiv.org/pdf/2602.05408). Zihao Guo, Ligang Zhou#, Zeyang Tang, Feicheng Li, Ying Nie, Zhiming Peng, **Qingyun Sun#**, Jianxin Li
 
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization](https://arxiv.org/pdf/2603.20213). Jiaqi Yuan, Jialu Wang, Zihan Wang, **Qingyun Sun**, Ruijie Wang, Jianxin Li
-
-- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Training-Free Sparse Attention for Fast Video Generation via Offline Layer-Wise Sparsity Profiling and Online Bidirectional Co-Clustering](https://arxiv.org/pdf/2603.18636). Jiayi Luo, Jiayu Chen, Jiankun Wang, Cong Wang, Hanxin Zhu, **Qingyun Sun**, Chen Gao, Zhibo Chen, Jianxin Li
 
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models](https://arxiv.org/pdf/2601.11342). Chuanyue Yu, Jiahui Wang, Yuhan Li, Heng Chang, Ge Lan, **Qingyun Sun**, Jia Li, Jianxin Li, Ziwei Zhang
 
@@ -103,6 +105,10 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning](https://arxiv.org/pdf/2507.13396?). **Qingyun Sun**, Jiaqi Yuan, Shan He, Xiao Guan, Haonan Yuan, Xingcheng Fu, Jianxin Li, Philip S Yu
 
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts](https://arxiv.org/pdf/2602.06859). Xinyu Zhao, **Qingyun Sun#**, Jiayi Luo, Xingcheng Fu, Jianxin Li
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICML 2026</span> Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning. Yi Huang, **Qingyun Sun#**, Jia Li, Xingcheng Fu, Jianxin Li
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICML 2026</span> [Training-Free Sparse Attention for Fast Video Generation via Offline Layer-Wise Sparsity Profiling and Online Bidirectional Co-Clustering](https://arxiv.org/pdf/2603.18636). Jiayi Luo, Jiayu Chen, Jiankun Wang, Cong Wang, Hanxin Zhu, **Qingyun Sun**, Chen Gao, Zhibo Chen, Jianxin Li
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICLR 2026</span> [Controllable Logical Hypothesis Generation for Abductive Reasoning in Knowledge Graphs.](https://arxiv.org/pdf/2505.20948) Yisen Gao, Jiaxin Bai, Tianshi Zheng, Ziwei Zhang, **Qingyun Sun**, Xingcheng Fu, Jianxin Li, Yangqiu Song
 
@@ -128,7 +134,7 @@ My research interests include Data Mining, Deep Graph Learning and Trustworthy A
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> [Fine-Tuned LLMs Know They Don't Know: A Parameter-Efficient Approach to Recovering Honesty.](https://arxiv.org/pdf/2511.12991) Zeyu Shi, Ziming Wang, Haoyi Zhou, Shiqi Gao, Tianyu Chen, **Qingyun Sun**, Jianxin Li
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> Towards LLM-Empowered Knowledge Tracing via LLM-Student Hierarchical Behavior Alignment in Hyperbolic Space. Xingcheng Fu, Shengpeng Wang, Yisen Gao, Dongran Yu, Chunpei Li, **Qingyun Sun**, Xianxian Li
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> [Towards LLM-Empowered Knowledge Tracing via LLM-Student Hierarchical Behavior Alignment in Hyperbolic Space](https://ojs.aaai.org/index.php/AAAI/article/view/38494). Xingcheng Fu, Shengpeng Wang, Yisen Gao, Dongran Yu, Chunpei Li, **Qingyun Sun**, Xianxian Li
 
 **2025:**
 
@@ -313,10 +319,11 @@ Graphs and more Complex Structures For Learning and Reasoning, Graph Machine Lea
 
 # 💻 Service
 
-**Area Chair:**
+**Area Chair / Senior Program Member:**
 
 - ICML 2026
 - ICLR 2026
+- CIKM 2026
 
 **Conference Reviewer:**
 
@@ -351,6 +358,8 @@ Graphs and more Complex Structures For Learning and Reasoning, Graph Machine Lea
 - IEEE Transactions on Knowledge and Data Engineering (TKDE)
 
 - ACM Transactions on Information Systems (TOIS)
+
+- Artificial Intelligence (AIJ)
 
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
