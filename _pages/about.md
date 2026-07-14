@@ -114,7 +114,7 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">MM 2026</span> DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation. Jiacheng Tao, **Qingyun Sun#**, Haonan Yuan, Ziwei Zhang, Jianxin Li
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">MM 2026</span> So-Called Input Transformation-Based Attacks Are Actually Model Transformation-Based Attacks. Yang Hu, Tao Yang, Yuheng He, **Qingyun Sun#**, Xiuli Bi, Bin Xiao, Jianxin Li
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">MM 2026</span> So-Called Input Transformation-Based Attacks Are Actually Model Transformation-Based Attacks. Yang Hu, Tao Yang, Yuheng He, **Qingyun Sun**, Xiuli Bi, Bin Xiao, Jianxin Li
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICML 2026</span> [Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning](https://arxiv.org/pdf/2605.21475). Yi Huang, **Qingyun Sun#**, Jia Li, Xingcheng Fu, Jianxin Li
 
