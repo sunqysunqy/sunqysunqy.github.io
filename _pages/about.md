@@ -116,7 +116,7 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">MM 2026</span> So-Called Input Transformation-Based Attacks Are Actually Model Transformation-Based Attacks. Yang Hu, Tao Yang, Yuheng He, **Qingyun Sun#**, Xiuli Bi, Bin Xiao, Jianxin Li
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICML 2026</span> Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning. Yi Huang, **Qingyun Sun#**, Jia Li, Xingcheng Fu, Jianxin Li
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICML 2026</span> [Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning](https://arxiv.org/pdf/2605.21475). Yi Huang, **Qingyun Sun#**, Jia Li, Xingcheng Fu, Jianxin Li
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">ICML 2026</span> [Training-Free Sparse Attention for Fast Video Generation via Offline Layer-Wise Sparsity Profiling and Online Bidirectional Co-Clustering](https://arxiv.org/pdf/2603.18636). Jiayi Luo, Jiayu Chen, Jiankun Wang, Cong Wang, Hanxin Zhu, **Qingyun Sun**, Chen Gao, Zhibo Chen, Jianxin Li
 
@@ -413,11 +413,11 @@ Graphs and more Complex Structures For Learning and Reasoning, Graph Machine Lea
 
 - Z. Wang  (2024-now, master)
 
-- T. Gong  (2023-now, master)
+- T. Gong  (2023-2026, master → Rednote)
 
-- H. Yuan (2022-now, Ph.D.)
+- H. Yuan (2022-2026, Ph.D. → Postdoc at Tsinghua University)
 
-- F. Lu   (2022-now, Ph.D.)
+- F. Lu   (2022-2026, Ph.D.)
 
 - B. Yang (2021-2023, master → Ph.D. at University of Edinburgh)
 
