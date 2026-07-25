@@ -112,7 +112,7 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts](https://arxiv.org/pdf/2602.06859). Xinyu Zhao, **Qingyun Sun#**, Jiayi Luo, Xingcheng Fu, Jianxin Li
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IEEE TKDE 2026</span> [A Survey on Foundation Models for Structured Data: Tabular, Time Series, and Graphs](https://www.preprints.org/frontend/manuscript/d7998536893947e2eefe35dba763e06f/download_pub). **Qingyun Sun**, Haonan Yuan, Yi Huang, Ziwei Zhang, Xingcheng Fu, Ruijie Wang, Haoyi Zhou,Jia Wu, Jianxin Li, Philip S. Yu
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IEEE TKDE 2026</span> [A Survey on Foundation Models for Structured Data: Tabular, Time Series, and Graphs](https://www.preprints.org/frontend/manuscript/d7998536893947e2eefe35dba763e06f/download_pub). **Qingyun Sun**, Haonan Yuan, Yi Huang, Ziwei Zhang, Xingcheng Fu, Ruijie Wang, Haoyi Zhou, Jianxin Li, Jia Wu, Philip S. Yu
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">MM 2026</span> DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation. Jiacheng Tao, **Qingyun Sun#**, Haonan Yuan, Ziwei Zhang, Jianxin Li
 
