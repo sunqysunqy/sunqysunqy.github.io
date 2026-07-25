@@ -21,13 +21,11 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 
 # 🔥 News
 
-- _2026.07_  🎉 **One** papers is accepted by **IEEE TKDE**
+- _2026.07_  🎉 Our survey  on **Foundation Models for Structured Data** paper is accepted by **IEEE TKDE**
 
 - _2026.07_  🎉 **Two** papers are accepted by **MM 2026**
 
 - _2026.06_  🌟 We are organizing a [Foundation Models and Agentic Intelligence for Graph-Centric Applications](https://www.sciltp.com/journals/tgina/call-for-papers/2064162284465147905) special issue for the [**TGINA**](https://www.sciltp.com/journals/tgina). Welcome submissions!
-
-- _2026.06_  🌟 We are organizing a [2nd Workshop on Frontiers in Graph Machine Learning for the Large Model Era](magic-group-buaa.github.io/CIKM2025_workshop/) special issue for the [**TGINA**](). Welcome submissions!
 
 - _2026.05_  🎉 **Two** papers are accepted by **ICML 2026**
 
