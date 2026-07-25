@@ -21,7 +21,9 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 
 # 🔥 News
 
-- _2026.07_  🎉 **Two** papers are accepted by **MM 2026**
+- _2026.07_  🎉 **One** papers is accepted by **IEEE TKDE**
+
+- _2026.07_  🎉 **Two** papers are accepted by **MM 2026**
 
 - _2026.06_  🌟 We are organizing a [Foundation Models and Agentic Intelligence for Graph-Centric Applications](https://www.sciltp.com/journals/tgina/call-for-papers/2064162284465147905) special issue for the [**TGINA**](https://www.sciltp.com/journals/tgina). Welcome submissions!
 
@@ -98,9 +100,9 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 
 **2026:**
 
-- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [A Survey on Foundation Models for Structured Data: Tabular, Time Series, and Graphs](https://www.preprints.org/frontend/manuscript/d7998536893947e2eefe35dba763e06f/download_pub). **Qingyun Sun**, Haonan Yuan, Yi Huang, Ziwei Zhang, Xingcheng Fu, Ruijie Wang, Haoyi Zhou,Jia Wu, Jianxin Li, Philip S. Yu
-
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Rich-Media Re-Ranker: A User Satisfaction-Driven LLM Re-ranking Framework for Rich-Media Search](https://arxiv.org/pdf/2602.05408). Zihao Guo, Ligang Zhou#, Zeyang Tang, Feicheng Li, Ying Nie, Zhiming Peng, **Qingyun Sun#**, Jianxin Li
+
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Future Forcing: Future-aware Training-free KV Cache Policy for Autoregressive Video Generation](https://arxiv.org/abs/2605.30083). Jiayi Luo, Qiyan Liu, Tengyang Wang, JunHao Liu, Jiayu Chen, Cong Wang,  Hanxin Zhu, Chen Gao, Xiaobin Hu, **Qingyun Sun**, Zhibo Chen
 
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization](https://arxiv.org/pdf/2603.20213). Jiaqi Yuan, Jialu Wang, Zihan Wang, **Qingyun Sun**, Ruijie Wang, Jianxin Li
 
@@ -111,6 +113,8 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning](https://arxiv.org/pdf/2507.13396?). **Qingyun Sun**, Jiaqi Yuan, Shan He, Xiao Guan, Haonan Yuan, Xingcheng Fu, Jianxin Li, Philip S Yu
 
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts](https://arxiv.org/pdf/2602.06859). Xinyu Zhao, **Qingyun Sun#**, Jiayi Luo, Xingcheng Fu, Jianxin Li
+
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IEEE TKDE</span> [A Survey on Foundation Models for Structured Data: Tabular, Time Series, and Graphs](https://www.preprints.org/frontend/manuscript/d7998536893947e2eefe35dba763e06f/download_pub). **Qingyun Sun**, Haonan Yuan, Yi Huang, Ziwei Zhang, Xingcheng Fu, Ruijie Wang, Haoyi Zhou,Jia Wu, Jianxin Li, Philip S. Yu
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">MM 2026</span> DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation. Jiacheng Tao, **Qingyun Sun#**, Haonan Yuan, Ziwei Zhang, Jianxin Li
 
