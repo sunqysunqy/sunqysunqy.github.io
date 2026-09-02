@@ -1,5 +1,4 @@
 ---
-
 permalink: /
 title: ""
 excerpt: ""
@@ -12,7 +11,6 @@ redirect_from:
 
 ---
 
-
 I’m currently an associate professor in the School of Computer Science and Engineering at Beihang University (BUAA). Before that, I received my Ph.D. degree from Beihang University, under the supervision of Prof. Jianxin Li. Further before, I obtained the B.S. degree from Xidian University.
 
 My research interests include Deep Graph Learning, Agent and Trustworthy AI. Please feel free to send me an email if interested to discuss or work together.
@@ -20,6 +18,10 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 **\[Prospective students]** Our group has positions for Ph.D. students, Master students, and visiting students. If you are interested, please send me an email with your CV and publications (if any).
 
 # 🔥 News
+
+- _2026.08_  🎉 **One** paper is accepted by **ICDM 2026**
+
+- _2026.08_  🎉 **Two** papers are accepted by **CIKM 2026**
 
 - _2026.07_  🎉 Our survey  on **Foundation Models for Structured Data** paper is accepted by **IEEE TKDE**
 
@@ -65,6 +67,8 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 
 - _2025.01_  🎉 **One** paper is accepted by **WWW 2025**
 
+- 
+
 <!-- 
 - _2024.12_  🎉 **Five** papers are accepted by **AAAI 2025**
 
@@ -98,23 +102,21 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 
 **2026:**
 
-- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Rich-Media Re-Ranker: A User Satisfaction-Driven LLM Re-ranking Framework for Rich-Media Search](https://arxiv.org/pdf/2602.05408). Zihao Guo, Ligang Zhou#, Zeyang Tang, Feicheng Li, Ying Nie, Zhiming Peng, **Qingyun Sun#**, Jianxin Li
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Information-Theoretic Foundations and Advances in Graph Machine Learning: A Comprehensive Survey](https://d197for5662m48.cloudfront.net/documents/publicationstatus/300575/preprint_pdf/59dec1534ff3eef424492c2a68582ce4.pdf). **Qingyun Sun**, Yi Huang, Haonan Yuan, Xingcheng Fu, Yisen Gao, Jia Wu, Shujian Yu, Angsheng Li, Jianxin Li, Philip S Yu
 
-- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Future Forcing: Future-aware Training-free KV Cache Policy for Autoregressive Video Generation](https://arxiv.org/abs/2605.30083). Jiayi Luo, Qiyan Liu, Tengyang Wang, JunHao Liu, Jiayu Chen, Cong Wang,  Hanxin Zhu, Chen Gao, Xiaobin Hu, **Qingyun Sun**, Zhibo Chen
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [CRITIC-R1: Learning Structured Critics for Retrieval-Augmented Generation](https://arxiv.org/pdf/2605.29886). Wenhan Xiao, Ziwei Zhang, Chuanyue Yu, Xingcheng Fu, **Qingyun Sun**, Runhua Xu, Jianxin Li
+
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning](https://arxiv.org/pdf/2507.13396?). **Qingyun Sun**, Jiaqi Yuan, Shan He, Xiao Guan, Haonan Yuan, Xingcheng Fu, Jianxin Li, Philip S Yu
 
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization](https://arxiv.org/pdf/2603.20213). Jiaqi Yuan, Jialu Wang, Zihan Wang, **Qingyun Sun**, Ruijie Wang, Jianxin Li
 
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models](https://arxiv.org/pdf/2601.11342). Chuanyue Yu, Jiahui Wang, Yuhan Li, Heng Chang, Ge Lan, **Qingyun Sun**, Jia Li, Jianxin Li, Ziwei Zhang
 
-- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Information-Theoretic Foundations and Advances in Graph Machine Learning: A Comprehensive Survey](https://d197for5662m48.cloudfront.net/documents/publicationstatus/300575/preprint_pdf/59dec1534ff3eef424492c2a68582ce4.pdf). **Qingyun Sun**, Yi Huang, Haonan Yuan, Xingcheng Fu, Yisen Gao, Jia Wu, Shujian Yu, Angsheng Li, Jianxin Li, Philip S Yu
-
-- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [DyG-RAG: Dynamic Graph Retrieval-Augmented Generation with Event-Centric Reasoning](https://arxiv.org/pdf/2507.13396?). **Qingyun Sun**, Jiaqi Yuan, Shan He, Xiao Guan, Haonan Yuan, Xingcheng Fu, Jianxin Li, Philip S Yu
-
-- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts](https://arxiv.org/pdf/2602.06859). Xinyu Zhao, **Qingyun Sun#**, Jiayi Luo, Xingcheng Fu, Jianxin Li
+- <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">Preprint</span> [Future Forcing: Future-aware Training-free KV Cache Policy for Autoregressive Video Generation](https://arxiv.org/abs/2605.30083). Jiayi Luo, Qiyan Liu, Tengyang Wang, JunHao Liu, Jiayu Chen, Cong Wang, Hanxin Zhu, Chen Gao, Xiaobin Hu, **Qingyun Sun**, Zhibo Chen
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">IEEE TKDE 2026</span> [A Survey on Foundation Models for Structured Data: Tabular, Time Series, and Graphs](https://www.preprints.org/frontend/manuscript/d7998536893947e2eefe35dba763e06f/download_pub). **Qingyun Sun**, Haonan Yuan, Yi Huang, Ziwei Zhang, Xingcheng Fu, Ruijie Wang, Haoyi Zhou, Jianxin Li, Jia Wu, Philip S. Yu
 
-- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">MM 2026</span> DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation. Jiacheng Tao, **Qingyun Sun#**, Haonan Yuan, Ziwei Zhang, Jianxin Li
+- <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">MM 2026</span> [DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation](arxiv.org/pdf/2607.28580). Jiacheng Tao, **Qingyun Sun#**, Haonan Yuan, Ziwei Zhang, Jianxin Li
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">MM 2026</span> So-Called Input Transformation-Based Attacks Are Actually Model Transformation-Based Attacks. Yang Hu, Tao Yang, Yuheng He, **Qingyun Sun**, Xiuli Bi, Bin Xiao, Jianxin Li
 
@@ -147,6 +149,10 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> [Fine-Tuned LLMs Know They Don't Know: A Parameter-Efficient Approach to Recovering Honesty.](https://arxiv.org/pdf/2511.12991) Zeyu Shi, Ziming Wang, Haoyi Zhou, Shiqi Gao, Tianyu Chen, **Qingyun Sun**, Jianxin Li
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">AAAI 2026</span> [Towards LLM-Empowered Knowledge Tracing via LLM-Student Hierarchical Behavior Alignment in Hyperbolic Space](https://ojs.aaai.org/index.php/AAAI/article/view/38494). Xingcheng Fu, Shengpeng Wang, Yisen Gao, Dongran Yu, Chunpei Li, **Qingyun Sun**, Xianxian Li
+
+- <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">CIKM 2026</span> [Rich-Media Re-Ranker: A User Satisfaction-Driven LLM Re-ranking Framework for Rich-Media Search](https://arxiv.org/pdf/2602.05408). Zihao Guo, Ligang Zhou#, Zeyang Tang, Feicheng Li, Ying Nie, Zhiming Peng, **Qingyun Sun#**, Jianxin Li
+
+- <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">ICDM 2026</span> [Zero-shot Generalizable Graph Anomaly Detection with Mixture of Riemannian Experts](https://arxiv.org/pdf/2602.06859). Xinyu Zhao, **Qingyun Sun#**, Jiayi Luo, Xingcheng Fu, Jianxin Li
 
 **2025:**
 
@@ -196,9 +202,6 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 
 - <span style="background-color:#808080; color:white; padding:2px 4px; border-radius:3px;">JMLC 2025</span> [A comprehensive survey on GNN-based anomaly detection: taxonomy, methods, and the role of large language models](https://link.springer.com/article/10.1007/s13042-024-02516-6). Ziqi Yuan, **Qingyun Sun#**, Haoyi Zhou, Minglai Shao, Xingcheng Fu
 
-
-
-
 **2024:**
 
 - <span style="background-color:#D20000; color:white; padding:2px 4px; border-radius:3px;">NeurIPS 2024</span> [GC-Bench: An Open and Unified Benchmark for Graph Condensation](https://arxiv.org/pdf/2407.00615). **Qingyun Sun\***, Ziying Chen\*, Beining Yang, Cheng Ji, Xingcheng Fu, Sheng Zhou, Hao Peng, Jianxin Li, Philip S. Yu
@@ -247,8 +250,6 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 - <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">KAIS 2023</span> [Adaptive Curvature Exploration Geometric Graph Neural Network](https://link.springer.com/article/10.1007/s10115-022-01811-4). Xingcheng Fu, Jianxin Li, Jia Wu, Jiawen Qin, **Qingyun Sun**, Cheng Ji, Senzhang Wang, Hao Peng, Philip S. Yu
 
 - <span style="background-color:#005BAC; color:white; padding:2px 4px; border-radius:3px;">KAIS 2023</span> [Heterogeneous Graph Neural Network with Semantic-aware Differential Privacy Guarantees](https://link.springer.com/article/10.1007/s10115-023-01895-6). Yuecen Wei, Xingcheng Fu, Dongqi Yan, **Qingyun Sun**, Hao Peng, Jia Wu, Jinyan Wang, Xianxian Li
-
-
 
 **Before 2022:**
 
@@ -301,7 +302,7 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 # 💬 Invited Talks
 
 - _2026.01_  AAAI 2026: 5th Workshop on
-Graphs and more Complex Structures For Learning and Reasoning, Graph Machine Learning for the Large Model Era. 
+  Graphs and more Complex Structures For Learning and Reasoning, Graph Machine Learning for the Large Model Era. 
 
 - _2025.11_  AI TIME, NeuIPS 2026 Pre-talk ACT-BD session. [\[video\]](https://b23.tv/ckhjECZ)
 
@@ -419,7 +420,7 @@ Graphs and more Complex Structures For Learning and Reasoning, Graph Machine Lea
 
 - H. Yuan (2022-2026, Ph.D. → Postdoc at Tsinghua University)
 
-- F. Lu   (2022-2026, Ph.D.)
+- F. Lu   (2022-2026, Ph.D. → Assistant Professor at Zhengzhou University)
 
 - B. Yang (2021-2023, master → Ph.D. at University of Edinburgh)
 
