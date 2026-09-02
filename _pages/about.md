@@ -67,8 +67,6 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 
 - _2025.01_  🎉 **One** paper is accepted by **WWW 2025**
 
-- 
-
 <!-- 
 - _2024.12_  🎉 **Five** papers are accepted by **AAAI 2025**
 
