@@ -19,6 +19,8 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 
 # 🔥 News
 
+- _2026.09_  🌟 We will give a tutorial [GraphMedIA: Graph Learning in Medical Image Analysis](https://math-ml-x.github.io/GraphMedIA26/) at **MICCAI 2026**. See you in Strasbourg!
+
 - _2026.08_  🎉 **One** paper is accepted by **ICDM 2026**
 
 - _2026.08_  🎉 **Two** papers are accepted by **CIKM 2026**
@@ -299,14 +301,16 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 
 # 💬 Invited Talks
 
-- _2026.01_  AAAI 2026: 5th Workshop on
-  Graphs and more Complex Structures For Learning and Reasoning, Graph Machine Learning for the Large Model Era. 
+- 2026.09 MICCAI 2026, [Tutorial: GraphMedIA: Graph Learning in Medical Image Analysis](https://math-ml-x.github.io/GraphMedIA26/)
+
+- _2026.01_  AAAI 2026: [5th Workshop on
+  Graphs and more Complex Structures For Learning and Reasoning, Graph Machine Learning for the Large Model Era](https://sites.google.com/view/gclr2026/home). 
 
 - _2025.11_  AI TIME, NeuIPS 2026 Pre-talk ACT-BD session. [\[video\]](https://b23.tv/ckhjECZ)
 
 - _2025.09_  CCF Bigdata 2025, Graph Structure Learning for Knowledge in Big Data.
 
-- _2025.08_  IJCAI 2025, Tutorial: Towards Low-Distortion Graph Representation Learning.
+- _2025.08_  IJCAI 2025, [Tutorial: Towards Low-Distortion Graph Representation Learning](https://magic-group-buaa.github.io/IJCAI25_tutorial/).
 
 - _2025.01_  AI TIME, AAAI 2025 Pre-talk ACT-BD session. [\[video\]](https://www.bilibili.com/video/BV1bhr6YuEjL)
 
@@ -425,3 +429,5 @@ My research interests include Deep Graph Learning, Agent and Trustworthy AI. Ple
 - Z. Chen (2023-2024, Intern → Ph.D. at University of Edinburgh)
 
 - Y. Gao  (2022-now, Intern → master at HKUST)
+
+- 
